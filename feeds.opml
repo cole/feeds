@@ -4,138 +4,171 @@
 <head><title>Fever</title></head>
 <body>
 <outline text="Kindling">
-	<outline type="rss" text="/dev/why!?!" title="/dev/why!?!" xmlUrl="http://devwhy.blogspot.com/feeds/posts/default" htmlUrl=""/>
-	<outline type="rss" text="2arrs, 2ells" title="2arrs, 2ells" xmlUrl="http://tumblr.2arrs2ells.com/rss" htmlUrl="http://tumblr.2arrs2ells.com/"/>
-	<outline type="rss" text="300&amp;65 Ampersands" title="300&amp;65 Ampersands" xmlUrl="http://ampersandampersand.tumblr.com/rss" htmlUrl="http://ampersandampersand.tumblr.com/"/>
-	<outline type="rss" text="43 Folders" title="43 Folders" xmlUrl="http://feedproxy.google.com/43folders" htmlUrl="http://www.43folders.com"/>
+	<outline type="rss" text="www.collegehumor.com/originals/rss" title="www.collegehumor.com/originals/rss" xmlUrl="www.collegehumor.com/originals/rss" htmlUrl=""/>
+	<outline type="rss" text="2 Kinds of People" title="2 Kinds of People" xmlUrl="http://2kindsofpeople.tumblr.com/rss" htmlUrl="http://2kindsofpeople.tumblr.com/"/>
 	<outline type="rss" text="5ives" title="5ives" xmlUrl="http://www.5ives.com/feed/" htmlUrl="http://www.5ives.com"/>
 	<outline type="rss" text="A Brief Message" title="A Brief Message" xmlUrl="http://feeds.feedburner.com/abriefmessage" htmlUrl="http://abriefmessage.com/"/>
 	<outline type="rss" text="A Humble Beer" title="A Humble Beer" xmlUrl="http://humblebeer.blogspot.com/feeds/posts/default" htmlUrl="http://humblebeer.blogspot.com/"/>
 	<outline type="rss" text="A List Apart" title="A List Apart" xmlUrl="http://www.alistapart.com/feed/rss.xml" htmlUrl="http://alistapart.com"/>
 	<outline type="rss" text="A Show: Episodes" title="A Show: Episodes" xmlUrl="http://feeds.feedburner.com/ashow/episodes" htmlUrl="http://ashow.zefrank.com/episode/rss.php"/>
-	<outline type="rss" text="A Softer World" title="A Softer World" xmlUrl="http://www.rsspect.com/rss/asw.xml" htmlUrl="http://www.asofterworld.com"/>
-	<outline type="rss" text="AWESOMOUS PRIME" title="AWESOMOUS PRIME" xmlUrl="http://awesomousprime.tumblr.com/rss" htmlUrl="http://awesomousprime.tumblr.com/"/>
 	<outline type="rss" text="Abstruse Goose" title="Abstruse Goose" xmlUrl="http://abstrusegoose.com/feed/atom" htmlUrl="http://abstrusegoose.com"/>
 	<outline type="rss" text="Adactio: Journal" title="Adactio: Journal" xmlUrl="http://adactio.com/journal/rss" htmlUrl="http://adactio.com/journal/"/>
-	<outline type="rss" text="Alexander Limi" title="Alexander Limi" xmlUrl="http://feeds.limi.net/limi" htmlUrl="http://limi.net"/>
-	<outline type="rss" text="Alinea At Home" title="Alinea At Home" xmlUrl="http://alineaathome.typepad.com/alinea_at_home/atom.xml" htmlUrl="http://alineaathome.typepad.com/alinea_at_home/"/>
-	<outline type="rss" text="American Drink" title="American Drink" xmlUrl="http://americandrink.net/rss" htmlUrl="http://americandrink.net/"/>
+	<outline type="rss" text="Adam Pash" title="Adam Pash" xmlUrl="http://adampash.com/feed.xml" htmlUrl="http://adampash.com"/>
+	<outline type="rss" text="al3x" title="al3x" xmlUrl="http://feeds.feedburner.com/al3x" htmlUrl="http://www.findpincode.com"/>
+	<outline type="rss" text="alert debugging" title="alert debugging" xmlUrl="http://www.alertdebugging.com/feed/atom/" htmlUrl=""/>
 	<outline type="rss" text="Andre's Notes" title="Andre's Notes" xmlUrl="http://notes.torrez.org/atom.xml" htmlUrl="http://notes.torrez.org/"/>
 	<outline type="rss" text="Anil Dash" title="Anil Dash" xmlUrl="http://dashes.com/anil/fbatom.xml" htmlUrl="http://dashes.com/anil/"/>
-	<outline type="rss" text="Anthony Bourdain" title="Anthony Bourdain" xmlUrl="http://anthony-bourdain-blog.travelchannel.com/atom.xml" htmlUrl=""/>
+	<outline type="rss" text="apenwarr" title="apenwarr" xmlUrl="http://apenwarr.ca/log/rss.php" htmlUrl="http://apenwarr.ca/log/"/>
 	<outline type="rss" text="Apple Outsider" title="Apple Outsider" xmlUrl="http://www.appleoutsider.com/feed" htmlUrl="http://www.appleoutsider.com"/>
-	<outline type="rss" text="Arpit Ranka" title="Arpit Ranka" xmlUrl="http://arpitranka.blogspot.com/feeds/posts/default" htmlUrl="http://arpitranka.blogspot.com/"/>
-	<outline type="rss" text="BERLIN DECAY" title="BERLIN DECAY" xmlUrl="http://www.berlindecay.com/feed/atom/" htmlUrl="http://www.berlindecay.com"/>
-	<outline type="rss" text="Bart's Blackboard" title="Bart's Blackboard" xmlUrl="http://bartsblackboard.com/feed/atom/" htmlUrl="http://bartsblackboard.com"/>
+	<outline type="rss" text="asymco" title="asymco" xmlUrl="http://www.asymco.com/feed/" htmlUrl="http://www.asymco.com"/>
+	<outline type="rss" text="atebits" title="atebits" xmlUrl="http://news.atebits.com/rss" htmlUrl=""/>
+	<outline type="rss" text="awesome people hanging out together" title="awesome people hanging out together" xmlUrl="http://awesomepeoplehangingouttogether.tumblr.com/rss" htmlUrl="http://awesomepeoplehangingouttogether.tumblr.com/"/>
+	<outline type="rss" text="Becoming the Lion" title="Becoming the Lion" xmlUrl="http://becomingthelion.blogspot.com/feeds/posts/default" htmlUrl="http://becomingthelion.blogspot.com/"/>
 	<outline type="rss" text="Beercycling Belgium" title="Beercycling Belgium" xmlUrl="http://beercyclingbelgium.tumblr.com/rss" htmlUrl="http://beercyclingbelgium.tumblr.com/"/>
 	<outline type="rss" text="Behavioural Investing" title="Behavioural Investing" xmlUrl="http://behaviouralinvesting.blogspot.com/feeds/posts/default" htmlUrl="http://behaviouralinvesting.blogspot.com/"/>
 	<outline type="rss" text="Ben Rockwood" title="Ben Rockwood" xmlUrl="http://www.cuddletech.com/blog/rss.xml" htmlUrl="http://cuddletech.com/blog"/>
 	<outline type="rss" text="Best of MetaFilter" title="Best of MetaFilter" xmlUrl="http://feeds.feedburner.com/BestOfMetafilter" htmlUrl="http://bestof.metafilter.com/"/>
-	<outline type="rss" text="Best of Wikipedia" title="Best of Wikipedia" xmlUrl="http://feeds2.feedburner.com/bestofwikipedia" htmlUrl="http://bestofwikipedia.tumblr.com/"/>
 	<outline type="rss" text="Big Tings a Gwan..." title="Big Tings a Gwan..." xmlUrl="http://people.tribe.net/fc01448e-363a-41c1-9db2-b40b11a61043/blog/rss" htmlUrl="http://people.tribe.net/fc01448e-363a-41c1-9db2-b40b11a61043/blog"/>
+	<outline type="rss" text="blog.jonasfrankki.com" title="blog.jonasfrankki.com" xmlUrl="http://blog.jonasfrankki.com/rss" htmlUrl="http://blog.jonasfrankki.com/"/>
+	<outline type="rss" text="bradshaw of the future" title="bradshaw of the future" xmlUrl="http://bradshawofthefuture.blogspot.com/feeds/posts/default" htmlUrl="http://bradshawofthefuture.blogspot.com/"/>
 	<outline type="rss" text="Brandon Walkin" title="Brandon Walkin" xmlUrl="http://www.brandonwalkin.com/blog/feed/" htmlUrl="http://www.brandonwalkin.com/blog"/>
 	<outline type="rss" text="Bret Victor's website" title="Bret Victor's website" xmlUrl="http://worrydream.com/feed.xml" htmlUrl="http://worrydream.com/"/>
-	<outline type="rss" text="CYRIAK'S AMAZING VIDEO BLOG" title="CYRIAK'S AMAZING VIDEO BLOG" xmlUrl="http://cyriak.co.uk/blog/?feed=rss2" htmlUrl="http://cyriak.co.uk/blog"/>
+	<outline type="rss" text="cabel.name" title="cabel.name" xmlUrl="http://www.cabel.name/atom.xml" htmlUrl="http://www.cabel.name/"/>
 	<outline type="rss" text="Canadian Capitalist" title="Canadian Capitalist" xmlUrl="http://feeds.feedburner.com/ccapitalist" htmlUrl="http://www.canadiancapitalist.com"/>
+	<outline type="rss" text="Chelsea Lake" title="Chelsea Lake" xmlUrl="http://chelsealake.ca/feed/" htmlUrl="http://chelsealake.ca"/>
 	<outline type="rss" text="Chokeville" title="Chokeville" xmlUrl="http://chokeville.com/rss.xml" htmlUrl="http://www.chokeville.com/"/>
 	<outline type="rss" text="Chris Glass" title="Chris Glass" xmlUrl="http://chrisglass.com/album/feed/" htmlUrl="http://chrisglass.com/album"/>
+	<outline type="rss" text="Chris Milk on Vimeo" title="Chris Milk on Vimeo" xmlUrl="http://vimeo.com/chrismilk/videos/rss" htmlUrl="http://vimeo.com/chrismilk/videos"/>
 	<outline type="rss" text="Colossal" title="Colossal" xmlUrl="http://feeds.feedburner.com/colossal" htmlUrl="http://www.thisiscolossal.com"/>
 	<outline type="rss" text="Consider this a Postcard." title="Consider this a Postcard." xmlUrl="http://blytheabigail.blogspot.com/feeds/posts/default" htmlUrl="http://blytheabigail.blogspot.com/"/>
 	<outline type="rss" text="Content from Venns" title="Content from Venns" xmlUrl="http://api.flickr.com/services/feeds/photoset.gne?set=72157617108841403&amp;nsid=96513256@N00&amp;lang=en-us&amp;format=atom" htmlUrl=""/>
 	<outline type="rss" text="Cosmic Variance" title="Cosmic Variance" xmlUrl="http://cosmicvariance.com/feed/" htmlUrl="http://blogs.discovermagazine.com/cosmicvariance"/>
 	<outline type="rss" text="Craig Mod - books, interactive works, photography, etc" title="Craig Mod - books, interactive works, photography, etc" xmlUrl="http://feeds.feedburner.com/craigmod/" htmlUrl="http://craigmod.com/"/>
-	<outline type="rss" text="Dan Benjamin" title="Dan Benjamin" xmlUrl="http://danbenjamin.com/feed" htmlUrl=""/>
-	<outline type="rss" text="Dani Rodrik's weblog" title="Dani Rodrik's weblog" xmlUrl="http://rodrik.typepad.com/dani_rodriks_weblog/atom.xml" htmlUrl="http://hubbub.api.typepad.com/"/>
+	<outline type="rss" text="CYRIAK'S AMAZING VIDEO BLOG" title="CYRIAK'S AMAZING VIDEO BLOG" xmlUrl="http://cyriak.co.uk/blog/?feed=rss2" htmlUrl="http://cyriak.co.uk/blog"/>
 	<outline type="rss" text="Daring Fireball" title="Daring Fireball" xmlUrl="http://daringfireball.net/index.xml" htmlUrl="http://daringfireball.net/"/>
 	<outline type="rss" text="Darren Fehrmann" title="Darren Fehrmann" xmlUrl="http://www.darrenthetiger.com/feed/" htmlUrl="http://www.darrenthetiger.com"/>
+	<outline type="rss" text="Data Hacker, MD" title="Data Hacker, MD" xmlUrl="http://datahackermd.com/feed.xml" htmlUrl="http://datahackermd.com"/>
 	<outline type="rss" text="David Dobbs&amp;#039;s NEURON CULTURE" title="David Dobbs&amp;#039;s NEURON CULTURE" xmlUrl="http://daviddobbs.net/smoothpebbles/feed/" htmlUrl="http://daviddobbs.net/smoothpebbles"/>
 	<outline type="rss" text="Derek Powazek" title="Derek Powazek" xmlUrl="http://powazek.com/feed" htmlUrl="http://powazek.com"/>
 	<outline type="rss" text="Derek Sivers" title="Derek Sivers" xmlUrl="http://sivers.org/en.atom" htmlUrl="http://sivers.org/"/>
 	<outline type="rss" text="Don Melton" title="Don Melton" xmlUrl="http://donmelton.com/rss.xml" htmlUrl="http://donmelton.com/rss.xml"/>
 	<outline type="rss" text="Dr Nic" title="Dr Nic" xmlUrl="http://feeds.feedburner.com/DrNic" htmlUrl="http://drnicwilliams.com"/>
+	<outline type="rss" text="Dr. Jen Gunter" title="Dr. Jen Gunter" xmlUrl="https://drjengunter.wordpress.com/feed/rss/" htmlUrl="https://drjengunter.wordpress.com"/>
 	<outline type="rss" text="ED KWONG" title="ED KWONG" xmlUrl="http://edkwong.tumblr.com/rss" htmlUrl="http://edkwong.tumblr.com/"/>
-	<outline type="rss" text="Eviljaymz: Musings on Everything by a bitter Irishman in London -" title="Eviljaymz: Musings on Everything by a bitter Irishman in London -" xmlUrl="http://www.eviljaymz.com/?q=rss.xml" htmlUrl=""/>
-	<outline type="rss" text="FarukAt.eş - Latest Entries" title="FarukAt.eş - Latest Entries" xmlUrl="http://feeds.feedburner.com/farukates?format=xml" htmlUrl="http://farukat.es/"/>
+	<outline type="rss" text="emily carroll" title="emily carroll" xmlUrl="http://emcarroll.blogspot.com/feeds/posts/default" htmlUrl="http://emcarroll.blogspot.com/"/>
+	<outline type="rss" text="Existential Comics" title="Existential Comics" xmlUrl="http://existentialcomics.com/rss.xml" htmlUrl="http://existentialcomics.com"/>
+	<outline type="rss" text="FarukAt.eş blog" title="FarukAt.eş blog" xmlUrl="http://feeds.feedburner.com/farukates?format=xml" htmlUrl="http://farukat.es/"/>
 	<outline type="rss" text="FastMail.FM Weblog" title="FastMail.FM Weblog" xmlUrl="http://blog.fastmail.fm/feed/" htmlUrl="http://blog.fastmail.fm"/>
+	<outline type="rss" text="Feast or Famine" title="Feast or Famine" xmlUrl="http://rorywolfseydel.tumblr.com/rss" htmlUrl="http://rorywolfseydel.tumblr.com/"/>
+	<outline type="rss" text="Felix Salmon on Tumblr" title="Felix Salmon on Tumblr" xmlUrl="http://felixsalmon.tumblr.com/rss" htmlUrl="http://felixsalmon.tumblr.com/"/>
+	<outline type="rss" text="feltron" title="feltron" xmlUrl="http://feltron.tumblr.com/rss" htmlUrl="http://feltron.tumblr.com/"/>
 	<outline type="rss" text="Frank Chimero" title="Frank Chimero" xmlUrl="http://blog.frankchimero.com/rss" htmlUrl=""/>
 	<outline type="rss" text="Fraser Speirs" title="Fraser Speirs" xmlUrl="http://speirs.org/blog/atom.xml" htmlUrl="http://speirs.org/blog/"/>
 	<outline type="rss" text="Ftrain.com" title="Ftrain.com" xmlUrl="http://www.ftrain.com/xml/feed/rss.xml" htmlUrl="http://www.ftrain.com/"/>
-	<outline type="rss" text="Gabrielle Moser Projects and Things" title="Gabrielle Moser Projects and Things" xmlUrl="http://gabriellemoser.com/feed/" htmlUrl="http://gabriellemoser.com"/>
-	<outline type="rss" text="German Joys" title="German Joys" xmlUrl="http://andrewhammel.typepad.com/german_joys/atom.xml" htmlUrl="http://andrewhammel.typepad.com/german_joys/"/>
-	<outline type="rss" text="Good Evening" title="Good Evening" xmlUrl="http://www.areasofmyexpertise.com/feed/" htmlUrl=""/>
-	<outline type="rss" text="HTML5 Doctor" title="HTML5 Doctor" xmlUrl="http://feeds.feedburner.com/html5doctor" htmlUrl="http://html5doctor.com"/>
+	<outline type="rss" text="Gabrielle Moser" title="Gabrielle Moser" xmlUrl="http://gabriellemoser.com/feed/" htmlUrl="http://gabriellemoser.com"/>
+	<outline type="rss" text="hackety org" title="hackety org" xmlUrl="http://feeds.feedburner.com/HacketyOrg" htmlUrl=""/>
 	<outline type="rss" text="Hamish Hamilton - Five Dials" title="Hamish Hamilton - Five Dials" xmlUrl="http://fivedials.com/rss/?section=fivedials" htmlUrl="http://fivedials.com/"/>
 	<outline type="rss" text="Hans Rosling" title="Hans Rosling" xmlUrl="http://roslingsblogger.blogspot.com/atom.xml" htmlUrl="http://roslingsblogger.blogspot.com/"/>
-	<outline type="rss" text="Here and There" title="Here and There" xmlUrl="http://feeds.feedburner.com/photoshereandthere" htmlUrl="http://photoshereandthere.com"/>
-	<outline type="rss" text="Here and There" title="Here and There" xmlUrl="http://photoshereandthere.blogspot.com/feeds/posts/default" htmlUrl="http://photoshereandthere.blogspot.com/"/>
+	<outline type="rss" text="Harry Potter and the Methods of Rationality - ad-free mirror" title="Harry Potter and the Methods of Rationality - ad-free mirror" xmlUrl="http://hpmor.com/rss.xml" htmlUrl="http://hpmor.com/"/>
+	<outline type="rss" text="Here and There" title="Here and There" xmlUrl="http://feeds.feedburner.com/photoshereandthere" htmlUrl="http://www.photoshereandthere.com"/>
 	<outline type="rss" text="Hoefler &amp;amp; Frere-Jones" title="Hoefler &amp;amp; Frere-Jones" xmlUrl="http://www.typography.com/ask/rss.php" htmlUrl="http://www.typography.com/blog"/>
 	<outline type="rss" text="Hot Chicks at Art Openings" title="Hot Chicks at Art Openings" xmlUrl="http://hotchicksatartopenings.tumblr.com/rss" htmlUrl="http://hotchicksatartopenings.tumblr.com/"/>
+	<outline type="rss" text="How to Be a Librarian in Kazakhstan" title="How to Be a Librarian in Kazakhstan" xmlUrl="http://howtobealibrarianinkazakhstan.com/feed/" htmlUrl="http://howtobealibrarianinkazakhstan.com"/>
+	<outline type="rss" text="HTML5 Doctor" title="HTML5 Doctor" xmlUrl="http://feeds.feedburner.com/html5doctor" htmlUrl="http://html5doctor.com"/>
+	<outline type="rss" text="http://blog.noahkalina.com/" title="http://blog.noahkalina.com/" xmlUrl="http://blog.noahkalina.com/rss" htmlUrl="http://blog.noahkalina.com/"/>
 	<outline type="rss" text="Hunter Angler Gardener Cook" title="Hunter Angler Gardener Cook" xmlUrl="http://www.honest-food.net/blog1/feed/" htmlUrl="http://honest-food.net"/>
 	<outline type="rss" text="Hypercritical" title="Hypercritical" xmlUrl="http://hypercritical.co/feeds/main" htmlUrl="http://hypercritical.co/"/>
-	<outline type="rss" text="INVENTORY Updates" title="INVENTORY Updates" xmlUrl="http://www.inventorymagazine.com/updates/?feed=rss2" htmlUrl=""/>
 	<outline type="rss" text="Idle Words" title="Idle Words" xmlUrl="http://www.idlewords.com/index.xml" htmlUrl="http://idlewords.com"/>
 	<outline type="rss" text="If we don't, remember me." title="If we don't, remember me." xmlUrl="http://iwdrm.tumblr.com/rss" htmlUrl="http://iwdrm.tumblr.com/"/>
+	<outline type="rss" text="ignore the code" title="ignore the code" xmlUrl="http://ignorethecode.net/blog/rss/" htmlUrl="http://ignorethecode.net"/>
 	<outline type="rss" text="Improv Everywhere" title="Improv Everywhere" xmlUrl="http://feeds2.feedburner.com/ImprovEverywhere?format=xml" htmlUrl="http://improveverywhere.com"/>
+	<outline type="rss" text="inessential.com" title="inessential.com" xmlUrl="http://inessential.com/xml/rss.xml" htmlUrl="http://inessential.com/"/>
 	<outline type="rss" text="Information Is Beautiful Awards" title="Information Is Beautiful Awards" xmlUrl="http://feeds.feedburner.com/InformationIsBeautifulAwards" htmlUrl="http://www.informationisbeautifulawards.com"/>
 	<outline type="rss" text="Invest Skeptically" title="Invest Skeptically" xmlUrl="http://feeds.feedburner.com/InvestSkeptically" htmlUrl=""/>
+	<outline type="rss" text="Irony" title="Irony" xmlUrl="http://whoamirony.tumblr.com/rss" htmlUrl="http://whoamirony.tumblr.com/"/>
 	<outline type="rss" text="Is This Thing On?" title="Is This Thing On?" xmlUrl="http://kris-erickson.tumblr.com/rss" htmlUrl="http://kris-erickson.tumblr.com/"/>
+	<outline type="rss" text="ivan krstić · code culture" title="ivan krstić · code culture" xmlUrl="http://radian.org/notebook/feed" htmlUrl="http://radian.org/notebook"/>
 	<outline type="rss" text="JACKET MECHANICAL" title="JACKET MECHANICAL" xmlUrl="http://jacketmechanical.blogspot.com/feeds/posts/default" htmlUrl="http://jacketmechanical.blogspot.com/"/>
-	<outline type="rss" text="James Duncan Davidson" title="James Duncan Davidson" xmlUrl="http://duncandavidson.com/atom.xml" htmlUrl="http://duncandavidson.com/blog"/>
+	<outline type="rss" text="James Duncan Davidson" title="James Duncan Davidson" xmlUrl="http://duncandavidson.com/atom.xml" htmlUrl="http://jdd.io/"/>
+	<outline type="rss" text="jimray" title="jimray" xmlUrl="http://jimray.tumblr.com/rss" htmlUrl="http://blog.jimray.me/"/>
+	<outline type="rss" text="John Hodgeman's Good Evening" title="John Hodgeman's Good Evening" xmlUrl="http://www.areasofmyexpertise.com/feed/" htmlUrl=""/>
 	<outline type="rss" text="John Resig" title="John Resig" xmlUrl="http://feeds.feedburner.com/JohnResig" htmlUrl="http://ejohn.org"/>
-	<outline type="rss" text="Julie's Ramblings" title="Julie's Ramblings" xmlUrl="http://blog.julieng.me/rss" htmlUrl="http://blog.julieng.me/"/>
+	<outline type="rss" text="Jon Tan" title="Jon Tan" xmlUrl="http://feeds.feedburner.com/jontangerine" htmlUrl="http://jontangerine.com/"/>
+	<outline type="rss" text="Julie's Ramblings" title="Julie's Ramblings" xmlUrl="http://blog.julieng.me/rss" htmlUrl=""/>
 	<outline type="rss" text="Katz Got Your Tongue?" title="Katz Got Your Tongue?" xmlUrl="http://feeds.feedburner.com/KatzGotYourTongue" htmlUrl="http://yehudakatz.com"/>
-	<outline type="rss" text="KernelTrap" title="KernelTrap" xmlUrl="http://kerneltrap.org/taxonomy/term/2+3+4+5+6+7+8+10+11+21/0/feed" htmlUrl="http://kerneltrap.org/taxonomy/term/2%203%204%205%206%207%208%2010%2011%2021/0"/>
-	<outline type="rss" text="Krauted Haus" title="Krauted Haus" xmlUrl="http://krautedhaus.com/?feed=rss2" htmlUrl="http://krautedhaus.com"/>
+	<outline type="rss" text="KONG" title="KONG" xmlUrl="http://ichbinkong.de/view/projects.rss" htmlUrl="http://ichbinkong.de/"/>
+	<outline type="rss" text="kottke.org" title="kottke.org" xmlUrl="http://feeds.kottke.org/main" htmlUrl="http://kottke.org/"/>
+	<outline type="rss" text="kurtisstewart.com" title="kurtisstewart.com" xmlUrl="http://kurtisstewart.com/blog/?feed=rss2" htmlUrl="http://kurtisstewart.com/blog"/>
 	<outline type="rss" text="Kyler Vos" title="Kyler Vos" xmlUrl="http://kylervos.tumblr.com/rss" htmlUrl="http://kylervos.tumblr.com/"/>
-	<outline type="rss" text="Kyler Vos" title="Kyler Vos" xmlUrl="http://peninsulasurf.blogspot.com/feeds/posts/default" htmlUrl="http://peninsulasurf.blogspot.com/"/>
+	<outline type="rss" text="LANGUAGES 4 DAYZ" title="LANGUAGES 4 DAYZ" xmlUrl="http://acasuallinguist.tumblr.com/rss" htmlUrl="http://acasuallinguist.tumblr.com/"/>
 	<outline type="rss" text="Lannister Blonde" title="Lannister Blonde" xmlUrl="http://lannisterblonde.tumblr.com/rss" htmlUrl="http://lannisterblonde.tumblr.com/"/>
 	<outline type="rss" text="LeslieMILES" title="LeslieMILES" xmlUrl="http://lesliemiles.com/feed-rss.php?url=leslie-miles" htmlUrl=""/>
+	<outline type="rss" text="littlejohncomics.com sketchbook" title="littlejohncomics.com sketchbook" xmlUrl="http://littlejohncomics.blogspot.com/feeds/posts/default" htmlUrl="http://littlejohncomics.blogspot.com/"/>
+	<outline type="rss" text="lonelysandwich" title="lonelysandwich" xmlUrl="http://lonelysandwich.com/rss" htmlUrl="http://lonelysandwich.com/"/>
 	<outline type="rss" text="Loud Thinking" title="Loud Thinking" xmlUrl="http://www.loudthinking.com/index.rdf" htmlUrl=""/>
 	<outline type="rss" text="Louis vs. Rick" title="Louis vs. Rick" xmlUrl="http://feeds.feedburner.com/LouisVsRick" htmlUrl="http://louisvsrick.com/"/>
+	<outline type="rss" text="LRUG Meetings" title="LRUG Meetings" xmlUrl="http://lrug.org/rss/meetings/" htmlUrl="http://lrug.org/meetings/"/>
+	<outline type="rss" text="lunchbreath" title="lunchbreath" xmlUrl="http://lunchbreath.com/feed/atom" htmlUrl="http://lunchbreath.com"/>
+	<outline type="rss" text="made mythos" title="made mythos" xmlUrl="http://mademythos.tumblr.com/rss" htmlUrl="http://mademythos.tumblr.com/"/>
 	<outline type="rss" text="Magical Molly" title="Magical Molly" xmlUrl="http://magicalmolly.tumblr.com/rss" htmlUrl="http://magicalmolly.tumblr.com/"/>
 	<outline type="rss" text="Marco.org" title="Marco.org" xmlUrl="http://www.marco.org/rss" htmlUrl="http://www.marco.org/"/>
 	<outline type="rss" text="Marinich" title="Marinich" xmlUrl="http://marinich.tumblr.com/rss" htmlUrl="http://marinich.tumblr.com/"/>
 	<outline type="rss" text="Matt Blaze's Exhaustive Search" title="Matt Blaze's Exhaustive Search" xmlUrl="http://www.crypto.com/blog/atom.xml" htmlUrl="http://www.crypto.com/blog/atom.xml?offset=26&amp;amp;n=15"/>
-	<outline type="rss" text="Matt Gemmell" title="Matt Gemmell" xmlUrl="http://mattgemmell.com/feed" htmlUrl="http://mattgemmell.com/"/>
+	<outline type="rss" text="mezzoblue" title="mezzoblue" xmlUrl="http://www.mezzoblue.com/feeds/index-posts.xml" htmlUrl="http://mezzoblue.com/"/>
+	<outline type="rss" text="Mind Hacks" title="Mind Hacks" xmlUrl="http://mindhacks.com/feed/" htmlUrl="http://mindhacks.com"/>
 	<outline type="rss" text="Ministry of Type" title="Ministry of Type" xmlUrl="http://www.ministryoftype.co.uk/words/rss/" htmlUrl="http://ministryoftype.co.uk/"/>
 	<outline type="rss" text="Miss Neddy's Tea Blog" title="Miss Neddy's Tea Blog" xmlUrl="http://www.leavesofjade.com/index.php/tea_blog/atom/" htmlUrl=""/>
-	<outline type="rss" text="ModernGraham.com" title="ModernGraham.com" xmlUrl="http://moderngraham.com/index.xml" htmlUrl="http://www.moderngraham.com"/>
+	<outline type="rss" text="ModernGraham.com" title="ModernGraham.com" xmlUrl="http://moderngraham.com/index.xml" htmlUrl="http://moderngraham.com/index.xml"/>
 	<outline type="rss" text="Monoscope" title="Monoscope" xmlUrl="http://www.monoscope.com/atom.xml" htmlUrl="http://www.monoscope.com/"/>
 	<outline type="rss" text="Mozilla.org" title="Mozilla.org" xmlUrl="http://www.mozilla.org/news.rdf" htmlUrl=""/>
 	<outline type="rss" text="Mule Design : Off the Hoof" title="Mule Design : Off the Hoof" xmlUrl="http://feeds.feedburner.com/muledesign/offthehoof" htmlUrl="http://muledesign.com"/>
-	<outline type="rss" text="NEW MATH by CRAIG DAMRAUER" title="NEW MATH by CRAIG DAMRAUER" xmlUrl="http://www.morenewmath.com/rss/" htmlUrl="http://www.morenewmath.com/"/>
-	<outline type="rss" text="NSHipster" title="NSHipster" xmlUrl="http://nshipster.com/feed.xml" htmlUrl="http://nshipster.com"/>
-	<outline type="rss" text="Neueste Projekte" title="Neueste Projekte" xmlUrl="http://ichbinkong.de/view/projects.rss" htmlUrl="http://ichbinkong.de/"/>
+	<outline type="rss" text="nerdboyfriend" title="nerdboyfriend" xmlUrl="http://nerdboyfriend.com/feed/rss/" htmlUrl=""/>
 	<outline type="rss" text="Neuroanthropology" title="Neuroanthropology" xmlUrl="http://blogs.plos.org/neuroanthropology/feed/" htmlUrl="http://blogs.plos.org/neuroanthropology"/>
 	<outline type="rss" text="Neven Mrgan's tumbl" title="Neven Mrgan's tumbl" xmlUrl="http://mrgan.tumblr.com/rss" htmlUrl="http://mrgan.tumblr.com/"/>
+	<outline type="rss" text="NEW MATH by CRAIG DAMRAUER" title="NEW MATH by CRAIG DAMRAUER" xmlUrl="http://www.morenewmath.com/rss/" htmlUrl="http://www.morenewmath.com/"/>
 	<outline type="rss" text="Nimona archive" title="Nimona archive" xmlUrl="http://gingerhaze.com/nimona/rss.xml" htmlUrl="http://gingerhaze.com/nimona/archive"/>
+	<outline type="rss" text="not a player, i just crush a lot" title="not a player, i just crush a lot" xmlUrl="http://amandahess.tumblr.com/rss" htmlUrl="http://amandahess.tumblr.com/"/>
+	<outline type="rss" text="NSHipster" title="NSHipster" xmlUrl="http://nshipster.com/feed.xml" htmlUrl="http://nshipster.com"/>
 	<outline type="rss" text="Nuby on Rails" title="Nuby on Rails" xmlUrl="http://feeds.feedburner.com/nubyonrails" htmlUrl="http://blog.peepcode.com"/>
+	<outline type="rss" text="OED word of the day" title="OED word of the day" xmlUrl="http://oed.com/rss/wordoftheday" htmlUrl="http://www.oed.com:80/rss/wordoftheday"/>
 	<outline type="rss" text="Officials Say the Darndest Things" title="Officials Say the Darndest Things" xmlUrl="http://officialssay.tumblr.com/rss" htmlUrl="http://officialssay.tumblr.com/"/>
-	<outline type="rss" text="One Foot Tsunami" title="One Foot Tsunami" xmlUrl="http://www.onefoottsunami.com/feed/atom/" htmlUrl="http://www.onefoottsunami.com"/>
+	<outline type="rss" text="One Foot Tsunami" title="One Foot Tsunami" xmlUrl="http://www.onefoottsunami.com/feed/atom/" htmlUrl="http://onefoottsunami.com"/>
+	<outline type="rss" text="ongoing by Tim Bray" title="ongoing by Tim Bray" xmlUrl="http://www.tbray.org/ongoing/ongoing.atom" htmlUrl="https://www.tbray.org/ongoing/"/>
 	<outline type="rss" text="Open Design City" title="Open Design City" xmlUrl="http://opendesigncity.de/feed/rss/" htmlUrl=""/>
 	<outline type="rss" text="Overcoming Bias" title="Overcoming Bias" xmlUrl="http://www.overcomingbias.com/atom.xml" htmlUrl="http://www.overcomingbias.com"/>
+	<outline type="rss" text="p.s.Pome" title="p.s.Pome" xmlUrl="http://pspome.ca/feed/" htmlUrl=""/>
+	<outline type="rss" text="paperpools" title="paperpools" xmlUrl="http://paperpools.blogspot.com/feeds/posts/default" htmlUrl="http://paperpools.blogspot.com/"/>
 	<outline type="rss" text="Paul Irish" title="Paul Irish" xmlUrl="http://feeds.feedburner.com/paul-irish" htmlUrl="http://paulirish.com/"/>
-	<outline type="rss" text="Pinboard - bookmarking for introverts" title="Pinboard - bookmarking for introverts" xmlUrl="http://pinboard.in/feed" htmlUrl="http://pinboard.in/"/>
+	<outline type="rss" text="Peanut Butter and Money" title="Peanut Butter and Money" xmlUrl="http://peanutbutterandmoney.wordpress.com/feed/" htmlUrl="http://peanutbutterandmoney.wordpress.com"/>
+	<outline type="rss" text="Pinboard blog" title="Pinboard blog" xmlUrl="http://pinboard.in/feed" htmlUrl="https://pinboard.in/"/>
 	<outline type="rss" text="Pitchfork Reviews Reviews" title="Pitchfork Reviews Reviews" xmlUrl="http://www.pitchforkreviewsreviews.com/rss" htmlUrl="http://pitchforkreviewsreviews.com/"/>
 	<outline type="rss" text="Planetary Annihilation" title="Planetary Annihilation" xmlUrl="http://www.uberent.com/pa/rss" htmlUrl="http://www.uberent.com/pa"/>
 	<outline type="rss" text="Projectionist" title="Projectionist" xmlUrl="http://project.ioni.st/syndicate/rss.xml" htmlUrl=""/>
+	<outline type="rss" text="Proper Discord" title="Proper Discord" xmlUrl="http://properdiscord.com/feed/" htmlUrl="http://properdiscord.com"/>
 	<outline type="rss" text="Put This On" title="Put This On" xmlUrl="http://putthison.com/rss" htmlUrl="http://putthison.com/"/>
 	<outline type="rss" text="Questionable Content" title="Questionable Content" xmlUrl="http://www.questionablecontent.net/QCRSS.xml" htmlUrl="http://www.questionablecontent.net"/>
 	<outline type="rss" text="QuirksBlog" title="QuirksBlog" xmlUrl="http://www.quirksmode.org/blog/atom.xml" htmlUrl="http://www.quirksmode.org/blog/"/>
 	<outline type="rss" text="Rands In Repose" title="Rands In Repose" xmlUrl="http://www.randsinrepose.com/index.xml" htmlUrl="http://www.randsinrepose.com/"/>
-	<outline type="rss" text="Raw Food SOS: Troubleshooting on the Raw Food Diet" title="Raw Food SOS: Troubleshooting on the Raw Food Diet" xmlUrl="http://rawfoodsos.com/feed/" htmlUrl="http://rawfoodsos.com"/>
+	<outline type="rss" text="Raw Food SOS" title="Raw Food SOS" xmlUrl="http://rawfoodsos.com/feed/" htmlUrl="http://rawfoodsos.com"/>
 	<outline type="rss" text="Raw Meat" title="Raw Meat" xmlUrl="http://qblog.aaronsw.com/rss" htmlUrl="http://qblog.aaronsw.com/"/>
+	<outline type="rss" text="rcjohnso" title="rcjohnso" xmlUrl="http://rcjohnso.tumblr.com/rss" htmlUrl="http://rcjohnso.tumblr.com/"/>
 	<outline type="rss" text="Release Candidate One" title="Release Candidate One" xmlUrl="http://releasecandidateone.com/feed.xml" htmlUrl="http://releasecandidateone.com/"/>
+	<outline type="rss" text="REMEDIA" title="REMEDIA" xmlUrl="http://remedianetwork.net/feed/" htmlUrl="http://remedianetwork.net"/>
 	<outline type="rss" text="Riding Rails" title="Riding Rails" xmlUrl="http://weblog.rubyonrails.com/xml/rss20/feed.xml" htmlUrl=""/>
-	<outline type="rss" text="Roden Gray" title="Roden Gray" xmlUrl="http://blog.rodengray.com/feed/atom/" htmlUrl=""/>
+	<outline type="rss" text="ruhlman.com" title="ruhlman.com" xmlUrl="http://blog.ruhlman.com/ruhlmancom/atom.xml" htmlUrl=""/>
+	<outline type="rss" text="Salazar on Vimeo" title="Salazar on Vimeo" xmlUrl="http://vimeo.com/salazarfilm/videos/rss" htmlUrl="http://vimeo.com/salazarfilm/videos"/>
 	<outline type="rss" text="Salt &amp;amp; Fat" title="Salt &amp;amp; Fat" xmlUrl="http://saltandfat.com/rss" htmlUrl="http://saltandfat.com/"/>
 	<outline type="rss" text="SamVentures" title="SamVentures" xmlUrl="http://samventure.wordpress.com/feed/" htmlUrl="http://samventure.wordpress.com"/>
+	<outline type="rss" text="Science-Based Pharmacy" title="Science-Based Pharmacy" xmlUrl="http://sciencebasedpharmacy.wordpress.com/feed/" htmlUrl="http://sciencebasedpharmacy.wordpress.com"/>
 	<outline type="rss" text="Sean Carroll" title="Sean Carroll" xmlUrl="http://www.preposterousuniverse.com/blog/feed/" htmlUrl="http://www.preposterousuniverse.com/blog"/>
 	<outline type="rss" text="Setups &amp;amp; Spaces" title="Setups &amp;amp; Spaces" xmlUrl="http://setupsandspaces.com/rss" htmlUrl="http://setupsandspaces.com/"/>
 	<outline type="rss" text="ShaunInman.com" title="ShaunInman.com" xmlUrl="http://www.shauninman.com/feeds/posts" htmlUrl="http://www.shauninman.com/"/>
 	<outline type="rss" text="ShaunInman.com // Elsewhere" title="ShaunInman.com // Elsewhere" xmlUrl="http://www.shauninman.com/feeds/links" htmlUrl="http://www.shauninman.com/"/>
-	<outline type="rss" text="Signal vs. Noise" title="Signal vs. Noise" xmlUrl="http://37signals.com/svn/index_full.rdf" htmlUrl=""/>
-	<outline type="rss" text="SimpleBits" title="SimpleBits" xmlUrl="http://stream.simplebits.com/rss" htmlUrl="http://stream.simplebits.com/"/>
+	<outline type="rss" text="SimpleBits" title="SimpleBits" xmlUrl="http://stream.simplebits.com/rss" htmlUrl=""/>
+	<outline type="rss" text="sinnwerkstatt Blog" title="sinnwerkstatt Blog" xmlUrl="http://www.sinnwerkstatt.com/blog/atom/" htmlUrl="http://www.sinnwerkstatt.com/blog/"/>
+	<outline type="rss" text="sippey.com" title="sippey.com" xmlUrl="http://feeds.feedburner.com/sippey?format=xml" htmlUrl="http://www.sippey.com/"/>
+	<outline type="rss" text="six-step circle" title="six-step circle" xmlUrl="https://sixstepcircle.wordpress.com/feed/" htmlUrl="https://sixstepcircle.wordpress.com"/>
+	<outline type="rss" text="soxiam" title="soxiam" xmlUrl="http://soxiam.com/rss" htmlUrl="http://soxiam.com/"/>
 	<outline type="rss" text="Spamusement" title="Spamusement" xmlUrl="http://spamusement.com/rss/" htmlUrl="http://spamusement.com/"/>
 	<outline type="rss" text="Spiekerblog (en)" title="Spiekerblog (en)" xmlUrl="http://spiekermann.com/en/feed/" htmlUrl="http://spiekermann.com/en"/>
 	<outline type="rss" text="Sruli Recht" title="Sruli Recht" xmlUrl="http://www.srulirecht.com/index.php/rss-feed/SruliRecht/" htmlUrl=""/>
@@ -147,292 +180,77 @@
 	<outline type="rss" text="Stuff No One Told Me" title="Stuff No One Told Me" xmlUrl="http://stuffnoonetoldme.blogspot.com/feeds/posts/default" htmlUrl="http://www.snotm.com/"/>
 	<outline type="rss" text="Stuff White People Like" title="Stuff White People Like" xmlUrl="http://stuffwhitepeoplelike.com/feed/" htmlUrl="http://stuffwhitepeoplelike.com"/>
 	<outline type="rss" text="Subtraction.com" title="Subtraction.com" xmlUrl="http://feeds2.feedburner.com/subtraction" htmlUrl="http://www.subtraction.com/"/>
-	<outline type="rss" text="TextMate Blog" title="TextMate Blog" xmlUrl="http://macromates.com/blog/feed/" htmlUrl="http://blog.macromates.com"/>
+	<outline type="rss" text="sumana garden &amp; nursery" title="sumana garden &amp; nursery" xmlUrl="http://sumanagarden.blogspot.com/feeds/posts/default" htmlUrl="http://sumanagarden.blogspot.com/"/>
+	<outline type="rss" text="Swift Blog - Apple Developer" title="Swift Blog - Apple Developer" xmlUrl="http://developer.apple.com/swift/blog/news.rss" htmlUrl="http://developer.apple.com/swift/blog/"/>
+	<outline type="rss" text="Tehya's Blog" title="Tehya's Blog" xmlUrl="http://tehyamackenzie.wordpress.com/feed/" htmlUrl="http://tehyamackenzie.wordpress.com"/>
+	<outline type="rss" text="Tehya's Flickr" title="Tehya's Flickr" xmlUrl="http://api.flickr.com/services/feeds/photos_public.gne?id=29945036@N05&amp;lang=en-us&amp;format=rss_200" htmlUrl="http://www.flickr.com/photos/tehyamackenzie/"/>
 	<outline type="rss" text="Textism" title="Textism" xmlUrl="http://textism.com/feed" htmlUrl=""/>
+	<outline type="rss" text="TextMate Blog" title="TextMate Blog" xmlUrl="http://macromates.com/blog/feed/" htmlUrl="http://blog.macromates.com"/>
 	<outline type="rss" text="The *Macalope*" title="The *Macalope*" xmlUrl="http://www.macalope.com/feed/" htmlUrl="http://www.macalope.com"/>
 	<outline type="rss" text="The Aging Coder" title="The Aging Coder" xmlUrl="http://feeds.feedburner.com/TheAgingCoder" htmlUrl="http://kriserickson.github.io"/>
-	<outline type="rss" text="The Balance Sheet" title="The Balance Sheet" xmlUrl="http://www.newyorker.com/online/blogs/jamessurowiecki/rss.xml" htmlUrl="http://www.newyorker.com/online/blogs/jamessurowiecki/"/>
+	<outline type="rss" text="The Bouletcorp" title="The Bouletcorp" xmlUrl="http://english.bouletcorp.com/feed/" htmlUrl="http://english.bouletcorp.com"/>
+	<outline type="rss" text="The Daily Bandha" title="The Daily Bandha" xmlUrl="http://www.dailybandha.com/feeds/posts/default" htmlUrl="http://www.dailybandha.com/"/>
+	<outline type="rss" text="The Django weblog" title="The Django weblog" xmlUrl="https://www.djangoproject.com/rss/weblog/" htmlUrl="https://www.djangoproject.com/weblog/"/>
 	<outline type="rss" text="The Hickensian" title="The Hickensian" xmlUrl="http://feeds.feedburner.com/hicksdesign" htmlUrl="http://hicksdesign.co.uk/journal/"/>
-	<outline type="rss" text="The Mavenist" title="The Mavenist" xmlUrl="http://www.themavenist.org/feed.xml" htmlUrl="http://www.themavenist.org"/>
-	<outline type="rss" text="The Oatmeal - Comics, Quizzes, &amp;amp; Stories" title="The Oatmeal - Comics, Quizzes, &amp;amp; Stories" xmlUrl="http://theoatmeal.com/feed/rss" htmlUrl="http://theoatmeal.com/"/>
-	<outline type="rss" text="The Pampas Cat" title="The Pampas Cat" xmlUrl="http://pampascat.wordpress.com/feed/" htmlUrl="http://pampascat.wordpress.com"/>
-	<outline type="rss" text="The Park Paradigm" title="The Park Paradigm" xmlUrl="http://www.parkparadigm.com/?feed=rss2" htmlUrl="http://www.parkparadigm.com"/>
-	<outline type="rss" text="The Pug Automatic" title="The Pug Automatic" xmlUrl="http://henrik.nyh.se/feed/" htmlUrl="http://thepugautomatic.com/"/>
-	<outline type="rss" text="The Sartorialist" title="The Sartorialist" xmlUrl="http://thesartorialist.blogspot.com/feeds/posts/default" htmlUrl="http://thesartorialist.blogspot.com/"/>
-	<outline type="rss" text="The Secret Diary of Steve Jobs" title="The Secret Diary of Steve Jobs" xmlUrl="http://fakesteve.blogspot.com/feeds/posts/default" htmlUrl=""/>
-	<outline type="rss" text="The Secret Diary of Steve Jobs » Steve" title="The Secret Diary of Steve Jobs » Steve" xmlUrl="http://feeds.feedburner.com/TheSecretDiaryOfSteveJobs" htmlUrl="http://www.fakesteve.net"/>
-	<outline type="rss" text="The Setup" title="The Setup" xmlUrl="http://usesthis.com/feed" htmlUrl="http://usesthis.com/"/>
-	<outline type="rss" text="The WHATWG Blog" title="The WHATWG Blog" xmlUrl="http://blog.whatwg.org/category/weekly-review/feed/" htmlUrl="http://blog.whatwg.org"/>
-	<outline type="rss" text="The Website Is Down - Rearranging your desktop since 1213989505." title="The Website Is Down - Rearranging your desktop since 1213989505." xmlUrl="http://dpt.thewebsiteisdown.com/dpt/rss.xml" htmlUrl=""/>
-	<outline type="rss" text="The Yes!" title="The Yes!" xmlUrl="http://www.theyes.ca/feed/" htmlUrl="http://www.theyes.ca"/>
-	<outline type="rss" text="Thicken My Wallet" title="Thicken My Wallet" xmlUrl="http://feeds.feedburner.com/ThickenMyWallet" htmlUrl="http://www.thickenmywallet.com/blog/wp"/>
-	<outline type="rss" text="This Recording" title="This Recording" xmlUrl="http://thisrecording.wordpress.com/feed/" htmlUrl="http://thisrecording.wordpress.com"/>
-	<outline type="rss" text="Thoughts On Software By Darren Fehrmann" title="Thoughts On Software By Darren Fehrmann" xmlUrl="http://software.darrenthetiger.com/feed/" htmlUrl="http://software.darrenthetiger.com"/>
-	<outline type="rss" text="Three Word Phrase" title="Three Word Phrase" xmlUrl="http://www.threewordphrase.com/rss.xml" htmlUrl="http://www.threewordphrase.com/"/>
-	<outline type="rss" text="Tom Preston-Werner" title="Tom Preston-Werner" xmlUrl="http://feeds.feedburner.com/tom-preston-werner" htmlUrl="http://tom.preston-werner.com/"/>
-	<outline type="rss" text="Too-biased - Home" title="Too-biased - Home" xmlUrl="http://blog.leetsoft.com/feed/atom.xml" htmlUrl=""/>
-	<outline type="rss" text="Unprotocols" title="Unprotocols" xmlUrl="http://unprotocols.org/feed/pages/pagename/blog%3A_start/category/blog/limit/999/t/Unprotocols" htmlUrl=""/>
-	<outline type="rss" text="Uploads from Tehya MacKenzie" title="Uploads from Tehya MacKenzie" xmlUrl="http://api.flickr.com/services/feeds/photos_public.gne?id=29945036@N05&amp;lang=en-us&amp;format=rss_200" htmlUrl="http://www.flickr.com/photos/tehyamackenzie/"/>
-	<outline type="rss" text="Value Discipline" title="Value Discipline" xmlUrl="http://valuediscipline.blogspot.com/feeds/posts/default" htmlUrl="http://valuediscipline.blogspot.com/"/>
-	<outline type="rss" text="Vimeo / Chris Milk's uploaded videos" title="Vimeo / Chris Milk's uploaded videos" xmlUrl="http://vimeo.com/chrismilk/videos/rss" htmlUrl="http://vimeo.com/chrismilk/videos"/>
-	<outline type="rss" text="Vimeo / Salazar's uploaded videos" title="Vimeo / Salazar's uploaded videos" xmlUrl="http://vimeo.com/salazarfilm/videos/rss" htmlUrl="http://vimeo.com/salazarfilm/videos"/>
-	<outline type="rss" text="Waxy.org Links" title="Waxy.org Links" xmlUrl="http://waxy.org/links/index.xml" htmlUrl="http://www.waxy.org/links/"/>
-	<outline type="rss" text="We'll Always Have (Berlin)" title="We'll Always Have (Berlin)" xmlUrl="http://tehyamackenzie.wordpress.com/feed/" htmlUrl="http://tehyamackenzie.wordpress.com"/>
-	<outline type="rss" text="What If?" title="What If?" xmlUrl="http://what-if.xkcd.com/feed.atom" htmlUrl="http://what-if.xkcd.com"/>
-	<outline type="rss" text="Word of the day" title="Word of the day" xmlUrl="http://oed.com/rss/wordoftheday" htmlUrl="http://www.oed.com:80/rss/wordoftheday"/>
-	<outline type="rss" text="YVR Deals :: Vancouver Flight Deals and All Inclusive Specials" title="YVR Deals :: Vancouver Flight Deals and All Inclusive Specials" xmlUrl="http://www.yvrdeals.com/atom/1" htmlUrl="http://www.yvrdeals.com/"/>
-	<outline type="rss" text="Your Mother Likes it" title="Your Mother Likes it" xmlUrl="http://yourmotherlikesit.blogspot.com/feeds/posts/default" htmlUrl="http://yourmotherlikesit.blogspot.com/"/>
-	<outline type="rss" text="Zach Holman" title="Zach Holman" xmlUrl="http://feeds.feedburner.com/holman?format=xml" htmlUrl="http://zachholman.com/"/>
-	<outline type="rss" text="aaronsw.com/weblog" title="aaronsw.com/weblog" xmlUrl="http://www.aaronsw.com/weblog/index.xml" htmlUrl=""/>
-	<outline type="rss" text="active questions tagged tornado - Stack Overflow" title="active questions tagged tornado - Stack Overflow" xmlUrl="http://stackoverflow.com/feeds/tag/tornado" htmlUrl="http://stackoverflow.com/questions/tagged/?tagnames=tornado&amp;amp;amp;sort=active"/>
-	<outline type="rss" text="al3x" title="al3x" xmlUrl="http://feeds.feedburner.com/al3x" htmlUrl=""/>
-	<outline type="rss" text="alert debugging" title="alert debugging" xmlUrl="http://www.alertdebugging.com/feed/atom/" htmlUrl=""/>
-	<outline type="rss" text="app.itize.us" title="app.itize.us" xmlUrl="http://app.itize.us/wp/feed/" htmlUrl=""/>
-	<outline type="rss" text="asymco" title="asymco" xmlUrl="http://www.asymco.com/feed/" htmlUrl="http://www.asymco.com"/>
-	<outline type="rss" text="atebits" title="atebits" xmlUrl="http://news.atebits.com/rss" htmlUrl=""/>
-	<outline type="rss" text="awesome people hanging out together" title="awesome people hanging out together" xmlUrl="http://awesomepeoplehangingouttogether.tumblr.com/rss" htmlUrl="http://awesomepeoplehangingouttogether.tumblr.com/"/>
-	<outline type="rss" text="blog.jonasfrankki.com" title="blog.jonasfrankki.com" xmlUrl="http://blog.jonasfrankki.com/rss" htmlUrl="http://blog.jonasfrankki.com/"/>
-	<outline type="rss" text="blog.pmarca.com" title="blog.pmarca.com" xmlUrl="http://feeds.feedburner.com/pmarca" htmlUrl="http://blog.pmarca.com"/>
-	<outline type="rss" text="bradshaw of the future" title="bradshaw of the future" xmlUrl="http://bradshawofthefuture.blogspot.com/feeds/posts/default" htmlUrl="http://bradshawofthefuture.blogspot.com/"/>
-	<outline type="rss" text="cabel.name" title="cabel.name" xmlUrl="http://www.cabel.name/atom.xml" htmlUrl="http://www.cabel.name/"/>
-	<outline type="rss" text="condohype" title="condohype" xmlUrl="http://condohype.wordpress.com/feed/" htmlUrl="http://condohype.wordpress.com"/>
-	<outline type="rss" text="dive into mark" title="dive into mark" xmlUrl="http://diveintomark.org/feed/" htmlUrl=""/>
-	<outline type="rss" text="emily carroll" title="emily carroll" xmlUrl="http://emcarroll.blogspot.com/feeds/posts/default" htmlUrl="http://emcarroll.blogspot.com/"/>
-	<outline type="rss" text="feltron" title="feltron" xmlUrl="http://feltron.tumblr.com/rss" htmlUrl="http://feltron.tumblr.com/"/>
-	<outline type="rss" text="gladwell.com" title="gladwell.com" xmlUrl="http://gladwell.typepad.com/gladwellcom/atom.xml" htmlUrl="http://hubbub.api.typepad.com/"/>
-	<outline type="rss" text="hackety org" title="hackety org" xmlUrl="http://feeds.feedburner.com/HacketyOrg" htmlUrl=""/>
-	<outline type="rss" text="http://blog.noahkalina.com/" title="http://blog.noahkalina.com/" xmlUrl="http://blog.noahkalina.com/rss" htmlUrl="http://blog.noahkalina.com/"/>
-	<outline type="rss" text="ignore the code" title="ignore the code" xmlUrl="http://ignorethecode.net/blog/rss/" htmlUrl="http://ignorethecode.net"/>
-	<outline type="rss" text="ivan krstić · code culture" title="ivan krstić · code culture" xmlUrl="http://radian.org/notebook/feed" htmlUrl="http://radian.org/notebook"/>
-	<outline type="rss" text="jimray" title="jimray" xmlUrl="http://jimray.tumblr.com/rss" htmlUrl="http://jimray.tumblr.com/"/>
-	<outline type="rss" text="kottke.org" title="kottke.org" xmlUrl="http://feeds.kottke.org/main" htmlUrl="http://kottke.org/"/>
-	<outline type="rss" text="kurtisstewart.com" title="kurtisstewart.com" xmlUrl="http://kurtisstewart.com/blog/?feed=rss2" htmlUrl="http://kurtisstewart.com/blog"/>
-	<outline type="rss" text="littlejohncomics.com sketchbook" title="littlejohncomics.com sketchbook" xmlUrl="http://littlejohncomics.blogspot.com/feeds/posts/default" htmlUrl="http://littlejohncomics.blogspot.com/"/>
-	<outline type="rss" text="lonelysandwich" title="lonelysandwich" xmlUrl="http://lonelysandwich.com/rss" htmlUrl="http://lonelysandwich.com/"/>
-	<outline type="rss" text="lunchbreath" title="lunchbreath" xmlUrl="http://lunchbreath.com/feed/atom" htmlUrl="http://lunchbreath.com"/>
-	<outline type="rss" text="mezzoblue" title="mezzoblue" xmlUrl="http://www.mezzoblue.com/feeds/index-posts.xml" htmlUrl="http://mezzoblue.com/"/>
-	<outline type="rss" text="nerdboyfriend" title="nerdboyfriend" xmlUrl="http://nerdboyfriend.com/feed/rss/" htmlUrl=""/>
-	<outline type="rss" text="ongoing" title="ongoing" xmlUrl="http://www.tbray.org/ongoing/ongoing.atom" htmlUrl="http://pubsubhubbub.appspot.com/"/>
-	<outline type="rss" text="p.s.Pome" title="p.s.Pome" xmlUrl="http://pspome.ca/feed/" htmlUrl="http://pspome.ca"/>
-	<outline type="rss" text="rcjohnso" title="rcjohnso" xmlUrl="http://rcjohnso.tumblr.com/rss" htmlUrl="http://rcjohnso.tumblr.com/"/>
-	<outline type="rss" text="ruhlman.com" title="ruhlman.com" xmlUrl="http://blog.ruhlman.com/ruhlmancom/atom.xml" htmlUrl=""/>
-	<outline type="rss" text="sinnwerkstatt - Blog" title="sinnwerkstatt - Blog" xmlUrl="http://www.sinnwerkstatt.com/blog/atom/" htmlUrl="http://www.sinnwerkstatt.com/blog/"/>
-	<outline type="rss" text="sippey.com" title="sippey.com" xmlUrl="http://feeds.feedburner.com/sippey?format=xml" htmlUrl="http://www.sippey.com/"/>
-	<outline type="rss" text="soxiam" title="soxiam" xmlUrl="http://soxiam.com/rss" htmlUrl="http://soxiam.com/"/>
-	<outline type="rss" text="sumana garden &amp; nursery" title="sumana garden &amp; nursery" xmlUrl="http://sumanagarden.blogspot.com/feeds/posts/default" htmlUrl="http://sumanagarden.blogspot.com/"/>
 	<outline type="rss" text="the impossible cool." title="the impossible cool." xmlUrl="http://theimpossiblecool.tumblr.com/rss" htmlUrl="http://theimpossiblecool.tumblr.com/"/>
 	<outline type="rss" text="the lolvant garde" title="the lolvant garde" xmlUrl="http://lolvantgarde.blogspot.com/feeds/posts/default" htmlUrl="http://lolvantgarde.blogspot.com/"/>
+	<outline type="rss" text="The Mavenist" title="The Mavenist" xmlUrl="http://www.themavenist.org/feed.xml" htmlUrl="http://www.themavenist.org"/>
+	<outline type="rss" text="The Pampas Cat" title="The Pampas Cat" xmlUrl="http://pampascat.wordpress.com/feed/" htmlUrl="http://pampascat.wordpress.com"/>
+	<outline type="rss" text="The Park Paradigm" title="The Park Paradigm" xmlUrl="http://www.parkparadigm.com/?feed=rss2" htmlUrl="http://www.parkparadigm.com"/>
+	<outline type="rss" text="The Perry Bible Fellowship" title="The Perry Bible Fellowship" xmlUrl="http://pbfcomics.com/feed/feed.xml" htmlUrl="http://pbfcomics.com/feed/feed.xml"/>
+	<outline type="rss" text="The Pug Automatic" title="The Pug Automatic" xmlUrl="http://henrik.nyh.se/feed/" htmlUrl="http://thepugautomatic.com/"/>
+	<outline type="rss" text="The Sartorialist" title="The Sartorialist" xmlUrl="http://thesartorialist.blogspot.com/feeds/posts/default" htmlUrl="http://thesartorialist.blogspot.com/"/>
+	<outline type="rss" text="The Scuttlefish" title="The Scuttlefish" xmlUrl="http://www.thescuttlefish.com/feed/" htmlUrl="http://thescuttlefish.com"/>
+	<outline type="rss" text="The Setup" title="The Setup" xmlUrl="http://usesthis.com/feed" htmlUrl="http://usesthis.com/"/>
+	<outline type="rss" text="The Sweethome" title="The Sweethome" xmlUrl="http://feeds.feedburner.com/thesweethome/NpUt?format=xml" htmlUrl="http://thesweethome.com"/>
+	<outline type="rss" text="The Website Is Down" title="The Website Is Down" xmlUrl="http://dpt.thewebsiteisdown.com/dpt/rss.xml" htmlUrl=""/>
+	<outline type="rss" text="The WHATWG Blog" title="The WHATWG Blog" xmlUrl="http://blog.whatwg.org/category/weekly-review/feed/" htmlUrl="http://blog.whatwg.org"/>
+	<outline type="rss" text="The Wirecutter" title="The Wirecutter" xmlUrl="http://feeds.feedburner.com/TheWirecutter?format=xml" htmlUrl="http://thewirecutter.com"/>
+	<outline type="rss" text="The Yes!" title="The Yes!" xmlUrl="http://www.theyes.ca/feed/" htmlUrl="http://www.theyes.ca"/>
+	<outline type="rss" text="Thicken My Wallet" title="Thicken My Wallet" xmlUrl="http://feeds.feedburner.com/ThickenMyWallet" htmlUrl="http://www.thickenmywallet.com/blog/wp"/>
+	<outline type="rss" text="Thoughts On Software By Darren Fehrmann" title="Thoughts On Software By Darren Fehrmann" xmlUrl="http://software.darrenthetiger.com/feed/" htmlUrl="http://software.darrenthetiger.com"/>
+	<outline type="rss" text="Tom Preston-Werner" title="Tom Preston-Werner" xmlUrl="http://feeds.feedburner.com/tom-preston-werner" htmlUrl="http://tom.preston-werner.com/"/>
 	<outline type="rss" text="too" title="too" xmlUrl="http://too.blogspot.com/feeds/posts/default" htmlUrl="http://too.blogspot.com/"/>
+	<outline type="rss" text="Too-biased" title="Too-biased" xmlUrl="http://blog.leetsoft.com/feed/atom.xml" htmlUrl=""/>
+	<outline type="rss" text="Tornado SO Questions" title="Tornado SO Questions" xmlUrl="http://stackoverflow.com/feeds/tag/tornado" htmlUrl="http://stackoverflow.com/questions/tagged/?tagnames=tornado&amp;amp;amp;sort=active"/>
+	<outline type="rss" text="Turkey Baster Baby" title="Turkey Baster Baby" xmlUrl="http://www.saraemilyhyde.com/blog?format=RSS" htmlUrl="http://www.saraemilyhyde.com/"/>
+	<outline type="rss" text="Unprotocols" title="Unprotocols" xmlUrl="http://unprotocols.org/feed/pages/pagename/blog%3A_start/category/blog/limit/999/t/Unprotocols" htmlUrl=""/>
+	<outline type="rss" text="Useful Science" title="Useful Science" xmlUrl="http://usefulscience.org/rss.xml" htmlUrl="http://usefulscience.org/rss.xml"/>
+	<outline type="rss" text="Value Discipline" title="Value Discipline" xmlUrl="http://valuediscipline.blogspot.com/feeds/posts/default" htmlUrl="http://valuediscipline.blogspot.com/"/>
 	<outline type="rss" text="very small array" title="very small array" xmlUrl="http://www.verysmallarray.com/?feed=atom" htmlUrl="http://www.verysmallarray.com"/>
+	<outline type="rss" text="Wait But Why" title="Wait But Why" xmlUrl="http://waitbutwhy.com/feed" htmlUrl="http://waitbutwhy.com"/>
+	<outline type="rss" text="Waxy.org Links" title="Waxy.org Links" xmlUrl="http://waxy.org/links/index.xml" htmlUrl="http://www.waxy.org/links/"/>
 	<outline type="rss" text="we make money not art" title="we make money not art" xmlUrl="http://www.we-make-money-not-art.com/index.xml" htmlUrl="http://we-make-money-not-art.com/"/>
-	<outline type="rss" text="why the lucky stiff" title="why the lucky stiff" xmlUrl="http://whytheluckystiff.net/index.atom" htmlUrl=""/>
+	<outline type="rss" text="What If?" title="What If?" xmlUrl="http://what-if.xkcd.com/feed.atom" htmlUrl="http://what-if.xkcd.com/feed.atom"/>
 	<outline type="rss" text="xkcd.com" title="xkcd.com" xmlUrl="http://xkcd.com/atom.xml" htmlUrl="http://xkcd.com/"/>
+	<outline type="rss" text="YSB Beijing" title="YSB Beijing" xmlUrl="http://ysb-beijing.tumblr.com/rss" htmlUrl="http://ysb-beijing.tumblr.com/"/>
+	<outline type="rss" text="YVR Deals" title="YVR Deals" xmlUrl="http://www.yvrdeals.com/atom/1" htmlUrl="http://www.yvrdeals.com/"/>
+	<outline type="rss" text="Zach Holman" title="Zach Holman" xmlUrl="http://feeds.feedburner.com/holman?format=xml" htmlUrl="http://zachholman.com/"/>
 	<outline type="rss" text="~stevenf" title="~stevenf" xmlUrl="http://stevenf.com/index.xml" htmlUrl="http://stevenf.com/posts"/>
-	<outline type="rss" text="陳 Jon Tan" title="陳 Jon Tan" xmlUrl="http://feeds.feedburner.com/jontangerine" htmlUrl="http://jontangerine.com/"/>
 </outline>
 <outline text="Berlin">
-	<outline type="rss" text="BERLIN DECAY" title="BERLIN DECAY" xmlUrl="http://www.berlindecay.com/feed/atom/" htmlUrl="http://www.berlindecay.com"/>
-	<outline type="rss" text="blog.jonasfrankki.com" title="blog.jonasfrankki.com" xmlUrl="http://blog.jonasfrankki.com/rss" htmlUrl="http://blog.jonasfrankki.com/"/>
-	<outline type="rss" text="Krauted Haus" title="Krauted Haus" xmlUrl="http://krautedhaus.com/?feed=rss2" htmlUrl="http://krautedhaus.com"/>
 	<outline type="rss" text="Open Design City" title="Open Design City" xmlUrl="http://opendesigncity.de/feed/rss/" htmlUrl=""/>
-	<outline type="rss" text="sinnwerkstatt - Blog" title="sinnwerkstatt - Blog" xmlUrl="http://www.sinnwerkstatt.com/blog/atom/" htmlUrl="http://www.sinnwerkstatt.com/blog/"/>
-	<outline type="rss" text="We'll Always Have (Berlin)" title="We'll Always Have (Berlin)" xmlUrl="http://tehyamackenzie.wordpress.com/feed/" htmlUrl="http://tehyamackenzie.wordpress.com"/>
+	<outline type="rss" text="Tehya's Blog" title="Tehya's Blog" xmlUrl="http://tehyamackenzie.wordpress.com/feed/" htmlUrl="http://tehyamackenzie.wordpress.com"/>
+	<outline type="rss" text="blog.jonasfrankki.com" title="blog.jonasfrankki.com" xmlUrl="http://blog.jonasfrankki.com/rss" htmlUrl="http://blog.jonasfrankki.com/"/>
+	<outline type="rss" text="sinnwerkstatt Blog" title="sinnwerkstatt Blog" xmlUrl="http://www.sinnwerkstatt.com/blog/atom/" htmlUrl="http://www.sinnwerkstatt.com/blog/"/>
+	<outline type="rss" text="paperpools" title="paperpools" xmlUrl="http://paperpools.blogspot.com/feeds/posts/default" htmlUrl="http://paperpools.blogspot.com/"/>
+</outline>
+<outline text="London">
+	<outline type="rss" text="LRUG Meetings" title="LRUG Meetings" xmlUrl="http://lrug.org/rss/meetings/" htmlUrl="http://lrug.org/meetings/"/>
+	<outline type="rss" text="Irony" title="Irony" xmlUrl="http://whoamirony.tumblr.com/rss" htmlUrl="http://whoamirony.tumblr.com/"/>
 </outline>
 <outline text="Vancouver">
-	<outline type="rss" text="condohype" title="condohype" xmlUrl="http://condohype.wordpress.com/feed/" htmlUrl="http://condohype.wordpress.com"/>
+	<outline type="rss" text="Beercycling Belgium" title="Beercycling Belgium" xmlUrl="http://beercyclingbelgium.tumblr.com/rss" htmlUrl="http://beercyclingbelgium.tumblr.com/"/>
 	<outline type="rss" text="Darren Fehrmann" title="Darren Fehrmann" xmlUrl="http://www.darrenthetiger.com/feed/" htmlUrl="http://www.darrenthetiger.com"/>
 	<outline type="rss" text="Is This Thing On?" title="Is This Thing On?" xmlUrl="http://kris-erickson.tumblr.com/rss" htmlUrl="http://kris-erickson.tumblr.com/"/>
-	<outline type="rss" text="kurtisstewart.com" title="kurtisstewart.com" xmlUrl="http://kurtisstewart.com/blog/?feed=rss2" htmlUrl="http://kurtisstewart.com/blog"/>
-	<outline type="rss" text="p.s.Pome" title="p.s.Pome" xmlUrl="http://pspome.ca/feed/" htmlUrl="http://pspome.ca"/>
-	<outline type="rss" text="Roden Gray" title="Roden Gray" xmlUrl="http://blog.rodengray.com/feed/atom/" htmlUrl=""/>
+	<outline type="rss" text="Kyler Vos" title="Kyler Vos" xmlUrl="http://kylervos.tumblr.com/rss" htmlUrl="http://kylervos.tumblr.com/"/>
 	<outline type="rss" text="SamVentures" title="SamVentures" xmlUrl="http://samventure.wordpress.com/feed/" htmlUrl="http://samventure.wordpress.com"/>
 	<outline type="rss" text="Steak &amp; Malbec Tour 2010" title="Steak &amp; Malbec Tour 2010" xmlUrl="http://gailmountain.wordpress.com/feed/" htmlUrl="http://gailmountain.wordpress.com"/>
-	<outline type="rss" text="Thoughts On Software By Darren Fehrmann" title="Thoughts On Software By Darren Fehrmann" xmlUrl="http://software.darrenthetiger.com/feed/" htmlUrl="http://software.darrenthetiger.com"/>
-	<outline type="rss" text="YVR Deals :: Vancouver Flight Deals and All Inclusive Specials" title="YVR Deals :: Vancouver Flight Deals and All Inclusive Specials" xmlUrl="http://www.yvrdeals.com/atom/1" htmlUrl="http://www.yvrdeals.com/"/>
-	<outline type="rss" text="Beercycling Belgium" title="Beercycling Belgium" xmlUrl="http://beercyclingbelgium.tumblr.com/rss" htmlUrl="http://beercyclingbelgium.tumblr.com/"/>
-	<outline type="rss" text="Kyler Vos" title="Kyler Vos" xmlUrl="http://kylervos.tumblr.com/rss" htmlUrl="http://kylervos.tumblr.com/"/>
 	<outline type="rss" text="The Aging Coder" title="The Aging Coder" xmlUrl="http://feeds.feedburner.com/TheAgingCoder" htmlUrl="http://kriserickson.github.io"/>
-</outline>
-<outline text="Sparks">
-	<outline type="rss" text="inessential.com" title="inessential.com" xmlUrl="http://inessential.com/" htmlUrl=""/>
-	<outline type="rss" text="stratechery.com/feed" title="stratechery.com/feed" xmlUrl="stratechery.com/feed/" htmlUrl=""/>
-	<outline type="rss" text="*" title="*" xmlUrl="http://heheheheheheheeheheheehehe.com/feeds/posts/default" htmlUrl="http://www.taolin.info/"/>
-	<outline type="rss" text="...My heart's in Accra" title="...My heart's in Accra" xmlUrl="http://www.ethanzuckerman.com/blog/feed/atom/" htmlUrl="http://www.ethanzuckerman.com/blog"/>
-	<outline type="rss" text="1024cores" title="1024cores" xmlUrl="http://feeds.feedburner.com/1024cores?format=xml" htmlUrl="http://blog.1024cores.net/"/>
-	<outline type="rss" text="52 Tiger" title="52 Tiger" xmlUrl="http://52tiger.net/feed/atom/" htmlUrl="http://52tiger.net"/>
-	<outline type="rss" text="ANIMALS TALKING IN ALL CAPS" title="ANIMALS TALKING IN ALL CAPS" xmlUrl="http://animalstalkinginallcaps.tumblr.com/rss" htmlUrl="http://animalstalkinginallcaps.tumblr.com/"/>
-	<outline type="rss" text="Aeon Magazine" title="Aeon Magazine" xmlUrl="http://feeds.feedburner.com/AeonMagazineEssays" htmlUrl="http://www.aeonmagazine.com"/>
-	<outline type="rss" text="All Things Distributed" title="All Things Distributed" xmlUrl="http://www.allthingsdistributed.com/atom.xml" htmlUrl="http://www.allthingsdistributed.com/"/>
-	<outline type="rss" text="Amazon Web Services Blog" title="Amazon Web Services Blog" xmlUrl="http://feeds.feedburner.com/AmazonWebServicesBlog" htmlUrl="http://aws.typepad.com/aws/"/>
-	<outline type="rss" text="And the Pursuit of Happiness" title="And the Pursuit of Happiness" xmlUrl="http://kalman.blogs.nytimes.com/feed/" htmlUrl="http://kalman.blogs.nytimes.com/"/>
-	<outline type="rss" text="Arleigh Wood" title="Arleigh Wood" xmlUrl="http://www.arleighwood.com/?feed=rss2" htmlUrl="http://www.arleighwood.com"/>
-	<outline type="rss" text="B. Hockey J." title="B. Hockey J." xmlUrl="http://thebhj.com/journal/atom.xml" htmlUrl="http://thebhj.com/journal/"/>
-	<outline type="rss" text="Bill Crow's HD Photo Blog" title="Bill Crow's HD Photo Blog" xmlUrl="http://blogs.msdn.com/billcrow/atom.xml" htmlUrl="http://blogs.msdn.com/b/billcrow/"/>
-	<outline type="rss" text="Bookshelf Porn" title="Bookshelf Porn" xmlUrl="http://bookshelfporn.com/rss" htmlUrl="http://bookshelfporn.com/"/>
-	<outline type="rss" text="Boriss' Blog" title="Boriss' Blog" xmlUrl="http://jboriss.wordpress.com/feed/" htmlUrl="http://jboriss.wordpress.com"/>
-	<outline type="rss" text="Brad DeLong" title="Brad DeLong" xmlUrl="http://feeds.feedburner.com/BradDelongsSemi-dailyJournal" htmlUrl="http://delong.typepad.com/sdj/"/>
-	<outline type="rss" text="Brad Setser: Follow the Money" title="Brad Setser: Follow the Money" xmlUrl="http://blogs.cfr.org/setser/feed/atom/" htmlUrl="http://blogs.cfr.org/setser"/>
-	<outline type="rss" text="Brett Harned" title="Brett Harned" xmlUrl="http://brettharned.com/feed/" htmlUrl="http://brettharned.com"/>
-	<outline type="rss" text="Bronte Capital" title="Bronte Capital" xmlUrl="http://www.blogger.com/feeds/4815867514277794362/posts/default" htmlUrl="http://brontecapital.blogspot.com/"/>
-	<outline type="rss" text="Bug" title="Bug" xmlUrl="http://www.bugcomic.com/feed/" htmlUrl="http://www.bugcomic.com"/>
-	<outline type="rss" text="Chromium Blog" title="Chromium Blog" xmlUrl="http://blog.chromium.org/feeds/posts/default" htmlUrl="http://blog.chromium.org/"/>
-	<outline type="rss" text="Cool Hunting" title="Cool Hunting" xmlUrl="http://www.coolhunting.com/index.xml" htmlUrl="http://www.coolhunting.com"/>
-	<outline type="rss" text="Coudal Partners Blended Feed" title="Coudal Partners Blended Feed" xmlUrl="http://feeds.feedburner.com/CoudalFreshSignals" htmlUrl="http://www.coudal.com/"/>
-	<outline type="rss" text="Crooked Timber" title="Crooked Timber" xmlUrl="http://crookedtimber.org/feed/" htmlUrl="http://crookedtimber.org"/>
-	<outline type="rss" text="Daily Routines" title="Daily Routines" xmlUrl="http://dailyroutines.typepad.com/daily_routines/atom.xml" htmlUrl="http://hubbub.api.typepad.com/"/>
-	<outline type="rss" text="Data Mining: Text Mining, Visualization and Social Media" title="Data Mining: Text Mining, Visualization and Social Media" xmlUrl="http://datamining.typepad.com/data_mining/index.rdf" htmlUrl="http://datamining.typepad.com/data_mining/"/>
-	<outline type="rss" text="David Simon" title="David Simon" xmlUrl="http://feeds.feedburner.com/DavidSimon" htmlUrl="http://davidsimon.com"/>
-	<outline type="rss" text="Dear Photograph" title="Dear Photograph" xmlUrl="http://dearphotograph.com/rss" htmlUrl="http://dearphotograph.com/"/>
-	<outline type="rss" text="Digital Photography Review (dpreview.com)" title="Digital Photography Review (dpreview.com)" xmlUrl="http://www.dpreview.com/news/dpr.rdf" htmlUrl=""/>
-	<outline type="rss" text="Dilbert.com Blog" title="Dilbert.com Blog" xmlUrl="http://dilbert.com/blog/entry.feed/" htmlUrl="http://dilbert.com/blog"/>
-	<outline type="rss" text="Dog Hates Me" title="Dog Hates Me" xmlUrl="http://www.doghatesme.com/dog-hates-me/atom.xml" htmlUrl="http://hubbub.api.typepad.com/"/>
-	<outline type="rss" text="EXP" title="EXP" xmlUrl="http://www.kanarick.com/exp/atom.xml" htmlUrl=""/>
-	<outline type="rss" text="Edible Geography" title="Edible Geography" xmlUrl="http://www.ediblegeography.com/feed/" htmlUrl="http://www.ediblegeography.com"/>
-	<outline type="rss" text="FOUND Magazine" title="FOUND Magazine" xmlUrl="http://www.foundmagazine.com/feed/news" htmlUrl=""/>
-	<outline type="rss" text="Facebook Blog" title="Facebook Blog" xmlUrl="http://feeds.feedburner.com/FacebookBlog" htmlUrl="http://blog.facebook.com"/>
-	<outline type="rss" text="Felt Tip blog" title="Felt Tip blog" xmlUrl="http://felttip.tumblr.com/rss" htmlUrl="http://felttip.tumblr.com/"/>
-	<outline type="rss" text="Field Mic" title="Field Mic" xmlUrl="http://fieldmic.com/rss" htmlUrl="http://fieldmic.com/"/>
-	<outline type="rss" text="Financial Alchemist" title="Financial Alchemist" xmlUrl="http://financial-alchemist.blogspot.com/feeds/posts/default" htmlUrl="http://financial-alchemist.blogspot.com/"/>
-	<outline type="rss" text="Finer Things in Mac" title="Finer Things in Mac" xmlUrl="http://feeds.feedburner.com/finermac" htmlUrl="http://finerthings.in"/>
-	<outline type="rss" text="Futility Closet" title="Futility Closet" xmlUrl="http://feeds.feedburner.com/FutilityCloset" htmlUrl="http://www.futilitycloset.com"/>
-	<outline type="rss" text="GORILLA VS. BEAR" title="GORILLA VS. BEAR" xmlUrl="http://www.gorillavsbear.net/feed/" htmlUrl="http://www.gorillavsbear.net"/>
-	<outline type="rss" text="Give me something to read" title="Give me something to read" xmlUrl="http://givemesomethingtoread.com/rss" htmlUrl="http://thefeature.net/"/>
-	<outline type="rss" text="Google AJAX Search" title="Google AJAX Search" xmlUrl="http://googleajaxsearchapi.blogspot.com/atom.xml" htmlUrl="http://googleajaxsearchapi.blogspot.com/"/>
-	<outline type="rss" text="Google Maps API" title="Google Maps API" xmlUrl="http://googlemapsapi.blogspot.com/atom.xml" htmlUrl="http://googlemapsapi.blogspot.com/"/>
-	<outline type="rss" text="Google Online Security Blog" title="Google Online Security Blog" xmlUrl="http://googleonlinesecurity.blogspot.com/feeds/posts/default" htmlUrl="http://googleonlinesecurity.blogspot.com/"/>
-	<outline type="rss" text="Google Reader Blog" title="Google Reader Blog" xmlUrl="http://googlereader.blogspot.com/atom.xml" htmlUrl="http://googlereader.blogspot.com/"/>
-	<outline type="rss" text="Grub Street New York" title="Grub Street New York" xmlUrl="http://nymag.com/daily/food/index.xml" htmlUrl="http://newyork.grubstreet.com/"/>
-	<outline type="rss" text="Guerilla Sculpture" title="Guerilla Sculpture" xmlUrl="http://guerillasculpture.tumblr.com/rss" htmlUrl="http://guerillasculpture.tumblr.com/"/>
-	<outline type="rss" text="HTML5 Watch" title="HTML5 Watch" xmlUrl="http://html5watch.tumblr.com/rss" htmlUrl="http://html5watch.tumblr.com/"/>
-	<outline type="rss" text="Heavy Tweed Jacket" title="Heavy Tweed Jacket" xmlUrl="http://heavytweed.blogspot.com/feeds/posts/default" htmlUrl="http://heavytweed.blogspot.com/"/>
-	<outline type="rss" text="Herb Greenberg" title="Herb Greenberg" xmlUrl="http://feeds.marketwatch.com/marketwatch/blogs/greenberg" htmlUrl=""/>
-	<outline type="rss" text="High Scalability" title="High Scalability" xmlUrl="http://feeds.feedburner.com/HighScalability" htmlUrl="http://highscalability.com/blog/"/>
-	<outline type="rss" text="Homophones, Weakly" title="Homophones, Weakly" xmlUrl="http://homophonesweakly.blogspot.com/feeds/posts/default" htmlUrl="http://homophonesweakly.blogspot.com/"/>
-	<outline type="rss" text="Human Rights Watch News Releases" title="Human Rights Watch News Releases" xmlUrl="http://www.hrw.org/doc/?t=news_rss" htmlUrl="http://www.hrw.org/rss/news"/>
-	<outline type="rss" text="I love typography, the typography and fonts blog" title="I love typography, the typography and fonts blog" xmlUrl="http://feeds.feedburner.com/ILoveTypography" htmlUrl="http://ilovetypography.com"/>
-	<outline type="rss" text="IEBlog" title="IEBlog" xmlUrl="http://blogs.msdn.com/ie/rss.aspx" htmlUrl="http://blogs.msdn.com/b/ie/"/>
-	<outline type="rss" text="Ideas in food" title="Ideas in food" xmlUrl="http://feeds.feedburner.com/IdeasInFood" htmlUrl="http://blog.ideasinfood.com/ideas_in_food/"/>
-	<outline type="rss" text="In Focus" title="In Focus" xmlUrl="http://feeds.feedburner.com/theatlantic/infocus" htmlUrl="http://www.theatlantic.com/infocus/"/>
-	<outline type="rss" text="Infinite Boston" title="Infinite Boston" xmlUrl="http://www.infiniteboston.com/rss" htmlUrl="http://www.infiniteboston.com/"/>
-	<outline type="rss" text="Intrvws" title="Intrvws" xmlUrl="http://feeds.feedburner.com/intrvws" htmlUrl="http://www.intrv.ws"/>
-	<outline type="rss" text="Ironic Title" title="Ironic Title" xmlUrl="http://ironictitle.com/rss" htmlUrl="http://ironictitle.com"/>
-	<outline type="rss" text="It's Nice That" title="It's Nice That" xmlUrl="http://feeds2.feedburner.com/itsnicethat/SlXC" htmlUrl="http://www.itsnicethat.com"/>
-	<outline type="rss" text="Jack Davison Photography" title="Jack Davison Photography" xmlUrl="http://jackdavison.tumblr.com/rss" htmlUrl="http://jackdavison.tumblr.com/"/>
-	<outline type="rss" text="Jacob Bijani" title="Jacob Bijani" xmlUrl="http://jacobbijani.com/rss" htmlUrl="http://jacobbijani.com/"/>
-	<outline type="rss" text="Jeffrey Zeldman Presents The Daily Report" title="Jeffrey Zeldman Presents The Daily Report" xmlUrl="http://www.zeldman.com/rss/" htmlUrl="http://www.zeldman.com"/>
-	<outline type="rss" text="JeffreySambells.com" title="JeffreySambells.com" xmlUrl="http://jeffreysambells.com/feed/atom/" htmlUrl="http://jeffreysambells.com"/>
-	<outline type="rss" text="Jensen Harris: An Office User Interface Blog" title="Jensen Harris: An Office User Interface Blog" xmlUrl="http://blogs.msdn.com/jensenh/atom.xml" htmlUrl="http://blogs.msdn.com/b/jensenh/"/>
-	<outline type="rss" text="Joel on Software" title="Joel on Software" xmlUrl="http://www.joelonsoftware.com/rss.xml" htmlUrl="http://www.joelonsoftware.com"/>
-	<outline type="rss" text="John Nack on Adobe" title="John Nack on Adobe" xmlUrl="http://blogs.adobe.com/jnack/atom.xml" htmlUrl="http://blogs.adobe.com/jnack"/>
-	<outline type="rss" text="Joyeur" title="Joyeur" xmlUrl="http://joyeur.com/atom/" htmlUrl=""/>
-	<outline type="rss" text="Junk Charts" title="Junk Charts" xmlUrl="http://junkcharts.typepad.com/junk_charts/index.rdf" htmlUrl="http://junkcharts.typepad.com/junk_charts/"/>
-	<outline type="rss" text="Kanye Wes" title="Kanye Wes" xmlUrl="http://kanyewesanderson.tumblr.com/rss" htmlUrl="http://kanyewesanderson.tumblr.com/"/>
-	<outline type="rss" text="Keith Starky Explains Twitter" title="Keith Starky Explains Twitter" xmlUrl="http://explainingtwitter.tumblr.com/rss" htmlUrl="http://explainingtwitter.tumblr.com/"/>
-	<outline type="rss" text="Learning by Shipping" title="Learning by Shipping" xmlUrl="http://feeds.feedburner.com/LearningByShipping?format=xml" htmlUrl="http://blog.learningbyshipping.com"/>
-	<outline type="rss" text="Luciano Barbera Virtual Magazine" title="Luciano Barbera Virtual Magazine" xmlUrl="http://lucianobarbera.blogspot.com/feeds/posts/default" htmlUrl="http://lucianobarbera.blogspot.com/"/>
-	<outline type="rss" text="MIT Advertising Lab" title="MIT Advertising Lab" xmlUrl="http://feeds.feedburner.com/MitAdvertisingLabFutureOfAdvertisingAndAdvertisingTechnology" htmlUrl="http://adverlab.blogspot.com/"/>
-	<outline type="rss" text="Machine Learning (Theory)" title="Machine Learning (Theory)" xmlUrl="http://hunch.net/?feed=atom" htmlUrl="http://hunch.net"/>
-	<outline type="rss" text="Mantia" title="Mantia" xmlUrl="http://mantia.me/feed/" htmlUrl="http://mantia.me"/>
-	<outline type="rss" text="Marginal Revolution" title="Marginal Revolution" xmlUrl="http://www.marginalrevolution.com/marginalrevolution/index.rdf" htmlUrl="http://marginalrevolution.com"/>
-	<outline type="rss" text="Mesofacts: slowly changing facts - Blog" title="Mesofacts: slowly changing facts - Blog" xmlUrl="http://www.mesofacts.org/1/feed" htmlUrl="http://www.mesofacts.org/blog.html"/>
-	<outline type="rss" text="Metafilter" title="Metafilter" xmlUrl="http://xml.metafilter.com/rss.xml" htmlUrl="http://www.metafilter.com/"/>
-	<outline type="rss" text="Michael Laiskonis" title="Michael Laiskonis" xmlUrl="http://michaellaiskonis.typepad.com/main/atom.xml" htmlUrl=""/>
-	<outline type="rss" text="Michael Rosen" title="Michael Rosen" xmlUrl="http://michaelrosenblog.blogspot.com/feeds/posts/default" htmlUrl="http://michaelrosenblog.blogspot.com/"/>
-	<outline type="rss" text="Microsoft Photography Blog" title="Microsoft Photography Blog" xmlUrl="http://blogs.msdn.com/pix/atom.xml" htmlUrl="http://blogs.msdn.com/b/pix/"/>
-	<outline type="rss" text="Mini-Microsoft" title="Mini-Microsoft" xmlUrl="http://minimsft.blogspot.com/atom.xml" htmlUrl="http://minimsft.blogspot.com/"/>
-	<outline type="rss" text="Minima" title="Minima" xmlUrl="http://minima.al3x.net/rss" htmlUrl="http://minima.al3x.net/"/>
-	<outline type="rss" text="Minimalissimo" title="Minimalissimo" xmlUrl="http://minimalissimo.com/feed/" htmlUrl="http://minimalissimo.com"/>
-	<outline type="rss" text="MostExeRent bRog.." title="MostExeRent bRog.." xmlUrl="http://mostexerent.tumblr.com/rss" htmlUrl="http://mostexerent.tumblr.com/"/>
-	<outline type="rss" text="Mozilla Labs" title="Mozilla Labs" xmlUrl="http://labs.mozilla.com/feed/" htmlUrl=""/>
-	<outline type="rss" text="N.K." title="N.K." xmlUrl="http://www.nkprojekt.de/feed/" htmlUrl="http://www.nkprojekt.de"/>
-	<outline type="rss" text="Neil Gaiman's Journal" title="Neil Gaiman's Journal" xmlUrl="http://www.neilgaiman.com/journal/feed/rss2.xml" htmlUrl="http://journal.neilgaiman.com/"/>
-	<outline type="rss" text="Neopythonic" title="Neopythonic" xmlUrl="http://neopythonic.blogspot.com/feeds/posts/default" htmlUrl="http://neopythonic.blogspot.com/"/>
-	<outline type="rss" text="Nick Patrick" title="Nick Patrick" xmlUrl="http://www.nicholasjohnpatrick.com/rss" htmlUrl="http://www.nicholasjohnpatrick.com/rss"/>
-	<outline type="rss" text="Obey Giant" title="Obey Giant" xmlUrl="http://obeygiant.com/feed/atom" htmlUrl="http://www.obeygiant.com"/>
-	<outline type="rss" text="Official Gmail Blog" title="Official Gmail Blog" xmlUrl="http://feeds.feedburner.com/OfficialGmailBlog" htmlUrl="http://gmailblog.blogspot.com/"/>
-	<outline type="rss" text="Official Google Blog" title="Official Google Blog" xmlUrl="http://googleblog.blogspot.com/atom.xml" htmlUrl="http://googleblog.blogspot.com/"/>
-	<outline type="rss" text="Offworld" title="Offworld" xmlUrl="http://www.offworld.com/atom.xml" htmlUrl="http://boingboing.net"/>
-	<outline type="rss" text="Particletree" title="Particletree" xmlUrl="http://particletree.com/rss/" htmlUrl=""/>
-	<outline type="rss" text="Photos from Hornby Island / Bob Cain" title="Photos from Hornby Island / Bob Cain" xmlUrl="http://feeds.feedburner.com/PhotosFromHornbyIsland/BobCain" htmlUrl="http://www.rcainphoto.com"/>
-	<outline type="rss" text="Point Blank Video Blog" title="Point Blank Video Blog" xmlUrl="http://pointblankcreative.ca/blog/?feed=rss2" htmlUrl=""/>
-	<outline type="rss" text="Prettify*" title="Prettify*" xmlUrl="http://feeds.feedburner.com/prettify" htmlUrl="http://prettifyit.com/"/>
-	<outline type="rss" text="Product by Process" title="Product by Process" xmlUrl="http://bencollette.com/productbyprocess/?feed=rss2" htmlUrl="http://bencollette.com/productbyprocess"/>
-	<outline type="rss" text="Rich Kids Of Instagram" title="Rich Kids Of Instagram" xmlUrl="http://richkidsofinstagram.tumblr.com/rss" htmlUrl="http://richkidsofinstagram.tumblr.com/"/>
-	<outline type="rss" text="Rough Type: Nicholas Carr's Blog" title="Rough Type: Nicholas Carr's Blog" xmlUrl="http://www.roughtype.com/atom.xml" htmlUrl="http://www.roughtype.com/"/>
-	<outline type="rss" text="Run Away Brainz" title="Run Away Brainz" xmlUrl="http://runawaybrainz.blogspot.com/feeds/posts/default" htmlUrl="http://runawaybrainz.blogspot.com/"/>
-	<outline type="rss" text="STREET BONERS and TV CARNAGE" title="STREET BONERS and TV CARNAGE" xmlUrl="http://streetbonersandtvcarnage.com/feed/" htmlUrl="http://www.streetbonersandtvcarnage.com"/>
-	<outline type="rss" text="Scanwiches" title="Scanwiches" xmlUrl="http://scanwiches.com/rss" htmlUrl="http://scanwiches.com/"/>
-	<outline type="rss" text="Schrödinger's Kitten - Latest Articles" title="Schrödinger's Kitten - Latest Articles" xmlUrl="http://feeds.feedburner.com/SchrodingersKitten?format=xml" htmlUrl="http://www.schrodingers-kitten.co.uk/"/>
-	<outline type="rss" text="Shades of Gray" title="Shades of Gray" xmlUrl="http://blog.grayproductions.net/index.rss" htmlUrl=""/>
-	<outline type="rss" text="Shawn Blanc" title="Shawn Blanc" xmlUrl="http://shawnblanc.net/feed" htmlUrl="http://shawnblanc.net"/>
-	<outline type="rss" text="Skeu It!" title="Skeu It!" xmlUrl="http://skeu.it/rss" htmlUrl="http://skeu.it/"/>
-	<outline type="rss" text="Smarterware" title="Smarterware" xmlUrl="http://smarterware.org/feed" htmlUrl="http://smarterware.org"/>
-	<outline type="rss" text="Square Signals" title="Square Signals" xmlUrl="http://blog.andymatuschak.org/rss" htmlUrl="http://blog.andymatuschak.org/"/>
-	<outline type="rss" text="Stevemail" title="Stevemail" xmlUrl="http://stevemail.tumblr.com/rss" htmlUrl="http://stevemail.tumblr.com/"/>
-	<outline type="rss" text="Strobist" title="Strobist" xmlUrl="http://strobist.blogspot.com/feeds/posts/default" htmlUrl="http://strobist.blogspot.com/"/>
-	<outline type="rss" text="Study Hacks" title="Study Hacks" xmlUrl="http://calnewport.com/blog/feed/" htmlUrl="http://calnewport.com/blog"/>
-	<outline type="rss" text="Sven Fuchs" title="Sven Fuchs" xmlUrl="http://feeds.feedburner.com/svenfuchs" htmlUrl="http://svenfuchs.com"/>
-	<outline type="rss" text="TAO LIN TUMBLR PRESENCE" title="TAO LIN TUMBLR PRESENCE" xmlUrl="http://heheheheheheheeheheheehehe.tumblr.com/rss" htmlUrl=""/>
-	<outline type="rss" text="TED Blog" title="TED Blog" xmlUrl="http://tedblog.typepad.com/tedblog/atom.xml" htmlUrl="http://blog.ted.com"/>
-	<outline type="rss" text="THE HISTORY CHEF!" title="THE HISTORY CHEF!" xmlUrl="http://lincolnslunch.blogspot.com/feeds/posts/default" htmlUrl="http://lincolnslunch.blogspot.com/"/>
-	<outline type="rss" text="TOSBack updates" title="TOSBack updates" xmlUrl="http://www.tosback.org/rss.php" htmlUrl="http://www.tosback.org/"/>
-	<outline type="rss" text="TerrysDiary" title="TerrysDiary" xmlUrl="http://www.terrysdiary.com/rss" htmlUrl="http://terrysdiary.com/"/>
-	<outline type="rss" text="That's Not Art" title="That's Not Art" xmlUrl="http://pseudomeaningful.tumblr.com/rss" htmlUrl="http://thatisntart.com/"/>
-	<outline type="rss" text="The Big Picture" title="The Big Picture" xmlUrl="http://www.boston.com/bigpicture/index.xml" htmlUrl="http://www.boston.com/bigpicture/"/>
-	<outline type="rss" text="The Brief" title="The Brief" xmlUrl="http://thebrief.io/atom.xml" htmlUrl="http://thebrief.io/days"/>
-	<outline type="rss" text="The Diacritics" title="The Diacritics" xmlUrl="http://thediacritics.wordpress.com/feed/" htmlUrl="http://thediacritics.com"/>
-	<outline type="rss" text="The Grumpy Economist" title="The Grumpy Economist" xmlUrl="http://johnhcochrane.blogspot.com/feeds/posts/default" htmlUrl="http://johnhcochrane.blogspot.com/"/>
-	<outline type="rss" text="The History of Python" title="The History of Python" xmlUrl="http://python-history.blogspot.com/feeds/posts/default" htmlUrl="http://python-history.blogspot.com/"/>
-	<outline type="rss" text="The Invisible" title="The Invisible" xmlUrl="http://www.theinvisibl.com/rss/" htmlUrl=""/>
-	<outline type="rss" text="The Meek" title="The Meek" xmlUrl="http://www.meekcomic.com/feed/" htmlUrl="http://www.meekcomic.com"/>
-	<outline type="rss" text="The Morning News" title="The Morning News" xmlUrl="http://www.themorningnews.org/rss.xml" htmlUrl="http://www.themorningnews.org/"/>
-	<outline type="rss" text="The Oldest Living Things in the World" title="The Oldest Living Things in the World" xmlUrl="http://oltw.blogspot.com/feeds/posts/default" htmlUrl="http://oltw.blogspot.com/"/>
-	<outline type="rss" text="The Particle Lab" title="The Particle Lab" xmlUrl="http://feeds.feedburner.com/NeutronCreationsBlog" htmlUrl="http://neutroncreations.com"/>
-	<outline type="rss" text="The Perils of Parallel" title="The Perils of Parallel" xmlUrl="http://perilsofparallel.blogspot.com/feeds/posts/default" htmlUrl="http://perilsofparallel.blogspot.com/"/>
-	<outline type="rss" text="The Selvedge Yard" title="The Selvedge Yard" xmlUrl="http://theselvedgeyard.wordpress.com/feed/" htmlUrl="http://theselvedgeyard.wordpress.com"/>
-	<outline type="rss" text="The Splintered Mind" title="The Splintered Mind" xmlUrl="http://schwitzsplinters.blogspot.com/feeds/posts/default" htmlUrl="http://schwitzsplinters.blogspot.com/"/>
-	<outline type="rss" text="The Suits of James Bond" title="The Suits of James Bond" xmlUrl="http://bondclothes.blogspot.com/feeds/posts/default" htmlUrl="http://thesuitsofjamesbond.com"/>
-	<outline type="rss" text="The Whisky Exchange BLOG" title="The Whisky Exchange BLOG" xmlUrl="http://feeds2.feedburner.com/TheWhiskyExchangeBlog" htmlUrl="http://blog.thewhiskyexchange.com"/>
-	<outline type="rss" text="Things Could Be Worse" title="Things Could Be Worse" xmlUrl="http://tragedyseries.tumblr.com/rss" htmlUrl="http://tragedyseries.tumblr.com/"/>
-	<outline type="rss" text="TraderFeed" title="TraderFeed" xmlUrl="http://traderfeed.blogspot.com/feeds/posts/default" htmlUrl="http://traderfeed.blogspot.com/"/>
-	<outline type="rss" text="Tweetage Wasteland" title="Tweetage Wasteland" xmlUrl="http://feeds.feedburner.com/tweetagewasteland" htmlUrl="http://tweetagewasteland.com"/>
-	<outline type="rss" text="Veerle's blog: full articles" title="Veerle's blog: full articles" xmlUrl="http://feeds.feedburner.com/veerlesblog" htmlUrl="http://veerle.duoh.com"/>
-	<outline type="rss" text="WONDER-TONIC" title="WONDER-TONIC" xmlUrl="http://wondertonic.tumblr.com/rss" htmlUrl="http://wondertonic.tumblr.com/"/>
-	<outline type="rss" text="WTF, Evolution?" title="WTF, Evolution?" xmlUrl="http://wtfevolution.tumblr.com/rss" htmlUrl="http://wtfevolution.tumblr.com/"/>
-	<outline type="rss" text="Why India?" title="Why India?" xmlUrl="http://www.dhali.ca/feed/" htmlUrl=""/>
-	<outline type="rss" text="Windowfarms" title="Windowfarms" xmlUrl="http://windowfarms.tumblr.com/rss" htmlUrl="http://windowfarms.tumblr.com/"/>
-	<outline type="rss" text="Wired Reread" title="Wired Reread" xmlUrl="http://www.wiredreread.com/feeds/posts/default" htmlUrl="http://www.wiredreread.com/"/>
-	<outline type="rss" text="World Beta - Engineering Targeted Returns and Risk" title="World Beta - Engineering Targeted Returns and Risk" xmlUrl="http://worldbeta.blogspot.com/feeds/posts/default" htmlUrl="http://worldbeta.blogspot.com/"/>
-	<outline type="rss" text="Yanko Design" title="Yanko Design" xmlUrl="http://feeds.feedburner.com/yankodesign" htmlUrl="http://www.yankodesign.com"/>
-	<outline type="rss" text="Yelping with Cormac" title="Yelping with Cormac" xmlUrl="http://yelpingwithcormac.tumblr.com/rss" htmlUrl="http://yelpingwithcormac.tumblr.com/"/>
-	<outline type="rss" text="You Are Not So Smart" title="You Are Not So Smart" xmlUrl="http://youarenotsosmart.com/feed/" htmlUrl="http://youarenotsosmart.com"/>
-	<outline type="rss" text="You Look Nice Today" title="You Look Nice Today" xmlUrl="http://youlooknicetoday.tumblr.com/rss" htmlUrl="http://youlooknicetoday.tumblr.com/"/>
-	<outline type="rss" text="Zed A. Shaw" title="Zed A. Shaw" xmlUrl="http://zedshaw.com/feed.xml" htmlUrl=""/>
-	<outline type="rss" text="armstrong on software" title="armstrong on software" xmlUrl="http://armstrongonsoftware.blogspot.com/feeds/posts/default" htmlUrl="http://armstrongonsoftware.blogspot.com/"/>
-	<outline type="rss" text="bit-player" title="bit-player" xmlUrl="http://bit-player.org/feed" htmlUrl="http://bit-player.org"/>
-	<outline type="rss" text="blog.lmorchard.com" title="blog.lmorchard.com" xmlUrl="http://blog.lmorchard.com/feed" htmlUrl="http://blog.lmorchard.com"/>
-	<outline type="rss" text="chadzilla" title="chadzilla" xmlUrl="http://chadzilla.typepad.com/chadzilla/atom.xml" htmlUrl="http://hubbub.api.typepad.com/"/>
-	<outline type="rss" text="fletcherpenney.net" title="fletcherpenney.net" xmlUrl="http://fletcherpenney.net/atom.xml" htmlUrl="http://fletcherpenney.net/"/>
-	<outline type="rss" text="has_many :through - home" title="has_many :through - home" xmlUrl="http://feeds.feedburner.com/hasmanythrough" htmlUrl="http://blog.hasmanythrough.com"/>
-	<outline type="rss" text="indexed" title="indexed" xmlUrl="http://indexed.blogspot.com/feeds/posts/default" htmlUrl="http://thisisindexed.com"/>
-	<outline type="rss" text="information aesthetics" title="information aesthetics" xmlUrl="http://infosthetics.com/atom.xml" htmlUrl="http://infosthetics.com/"/>
-	<outline type="rss" text="jwz" title="jwz" xmlUrl="http://www.jwz.org/blog/feed/" htmlUrl="http://www.jwz.org/blog/"/>
-	<outline type="rss" text="kung fu grippe" title="kung fu grippe" xmlUrl="http://www.kungfugrippe.com/rss" htmlUrl="http://www.kungfugrippe.com/"/>
-	<outline type="rss" text="languagehat.com" title="languagehat.com" xmlUrl="http://www.languagehat.com/index.rdf" htmlUrl="http://www.languagehat.com/"/>
-	<outline type="rss" text="mathbabe" title="mathbabe" xmlUrl="http://mathbabe.org/feed/" htmlUrl="http://mathbabe.org"/>
-	<outline type="rss" text="minma" title="minma" xmlUrl="http://minma.tumblr.com/rss" htmlUrl="http://minma.tumblr.com/"/>
-	<outline type="rss" text="music history in gifs" title="music history in gifs" xmlUrl="http://musichistoryingifs.com/rss" htmlUrl="http://musichistoryingifs.com/"/>
-	<outline type="rss" text="naked capitalism" title="naked capitalism" xmlUrl="http://feeds.feedburner.com/NakedCapitalism" htmlUrl="http://www.nakedcapitalism.com"/>
-	<outline type="rss" text="orgtheory.net" title="orgtheory.net" xmlUrl="http://orgtheory.wordpress.com/feed/" htmlUrl="http://orgtheory.wordpress.com"/>
-	<outline type="rss" text="paco pomet" title="paco pomet" xmlUrl="http://pacopomet.wordpress.com/feed/" htmlUrl="http://pacopomet.wordpress.com"/>
-	<outline type="rss" text="snpsht" title="snpsht" xmlUrl="http://snpsht.com/rss" htmlUrl="http://snpsht.com/"/>
-	<outline type="rss" text="socializing finance" title="socializing finance" xmlUrl="http://socfinance.wordpress.com/feed/" htmlUrl="http://socfinance.wordpress.com"/>
-	<outline type="rss" text="street snaps in japan" title="street snaps in japan" xmlUrl="http://streetsofjapan.tumblr.com/rss" htmlUrl="http://streetsofjapan.tumblr.com/"/>
-	<outline type="rss" text="the hunting of the snark" title="the hunting of the snark" xmlUrl="http://justtheplaceforasnark.blogspot.ca/atom.xml" htmlUrl="http://justtheplaceforasnark.blogspot.com/"/>
-	<outline type="rss" text="under the wire" title="under the wire" xmlUrl="http://brianxchen.tumblr.com/rss" htmlUrl="http://brianxchen.tumblr.com/"/>
-	<outline type="rss" text="ze's page :: zefrank.com" title="ze's page :: zefrank.com" xmlUrl="http://www.zefrank.com/atom.xml" htmlUrl="http://www.zefrank.com/"/>
-	<outline type="rss" text="◯" title="◯" xmlUrl="http://xn--22h.tumblr.com/rss" htmlUrl="http://xn--22h.tumblr.com/"/>
-	<outline type="rss" text="N.K." title="N.K." xmlUrl="http://www.nkprojekt.de/feed/" htmlUrl="http://www.nkprojekt.de"/>
+	<outline type="rss" text="Thoughts On Software By Darren Fehrmann" title="Thoughts On Software By Darren Fehrmann" xmlUrl="http://software.darrenthetiger.com/feed/" htmlUrl="http://software.darrenthetiger.com"/>
+	<outline type="rss" text="YVR Deals" title="YVR Deals" xmlUrl="http://www.yvrdeals.com/atom/1" htmlUrl="http://www.yvrdeals.com/"/>
+	<outline type="rss" text="kurtisstewart.com" title="kurtisstewart.com" xmlUrl="http://kurtisstewart.com/blog/?feed=rss2" htmlUrl="http://kurtisstewart.com/blog"/>
+	<outline type="rss" text="p.s.Pome" title="p.s.Pome" xmlUrl="http://pspome.ca/feed/" htmlUrl=""/>
 </outline>
 </body>
 </opml>
